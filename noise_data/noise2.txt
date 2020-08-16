@@ -1,0 +1,184 @@
+t 206131	 ax 0.01	 ay 0.05	 az 1.08
+t 206298	 ax 0.01	 ay 0.05	 az 1.08
+t 206465	 ax 0.01	 ay 0.05	 az 1.08
+t 206632	 ax 0.01	 ay 0.05	 az 1.08
+t 206799	 ax 0.01	 ay 0.05	 az 1.08
+t 206966	 ax 0.01	 ay 0.05	 az 1.08
+t 207133	 ax 0.01	 ay 0.05	 az 1.08
+t 207300	 ax 0.01	 ay 0.05	 az 1.08
+t 207467	 ax 0.02	 ay 0.05	 az 1.08
+t 207634	 ax 0.00	 ay 0.05	 az 1.08
+t 207801	 ax 0.01	 ay 0.05	 az 1.08
+t 207967	 ax 0.01	 ay 0.05	 az 1.08
+t 208134	 ax 0.01	 ay 0.05	 az 1.06
+t 208301	 ax 0.02	 ay 0.05	 az 1.09
+t 208468	 ax 0.02	 ay 0.04	 az 1.08
+t 208635	 ax 0.02	 ay 0.04	 az 1.08
+t 208802	 ax 0.02	 ay 0.06	 az 1.08
+t 208969	 ax 0.02	 ay 0.05	 az 1.08
+t 209136	 ax 0.02	 ay 0.06	 az 1.08
+t 209303	 ax 0.01	 ay 0.06	 az 1.06
+t 209470	 ax 0.02	 ay 0.05	 az 1.09
+t 209637	 ax 0.01	 ay 0.06	 az 1.08
+turn on
+t 209804	 ax -0.09	 ay -0.09	 az 1.15
+turn on
+t 209971	 ax -0.19	 ay 0.07	 az 1.06
+turn on
+t 210138	 ax -0.19	 ay 0.16	 az 1.37
+turn on
+t 210305	 ax -0.80	 ay -0.22	 az 1.38
+turn on
+t 210472	 ax 0.40	 ay 0.08	 az 1.55
+turn on
+t 210639	 ax 0.08	 ay 0.08	 az 0.84
+turn on
+t 210806	 ax -0.02	 ay 0.04	 az 1.06
+turn on
+t 210973	 ax -0.06	 ay 0.16	 az 1.25
+turn on
+t 211140	 ax 0.07	 ay 0.04	 az 0.99
+turn on
+t 211307	 ax 0.02	 ay 0.00	 az 1.01
+turn on
+t 211474	 ax -0.09	 ay 0.18	 az 1.27
+turn on
+t 211641	 ax 0.16	 ay -0.01	 az 0.94
+turn on
+t 211808	 ax -0.11	 ay 0.14	 az 1.18
+turn on
+t 211975	 ax 0.21	 ay -0.07	 az 0.84
+turn on
+t 212142	 ax -0.06	 ay 0.18	 az 1.21
+turn on
+t 212309	 ax 0.09	 ay 0.03	 az 1.03
+turn on
+t 212476	 ax -0.15	 ay 0.13	 az 1.17
+turn on
+t 212643	 ax 0.11	 ay 0.05	 az 1.06
+turn on
+t 212810	 ax -0.03	 ay 0.01	 az 1.00
+turn on
+t 212977	 ax 0.12	 ay 0.11	 az 1.12
+turn on
+t 213144	 ax -0.02	 ay 0.05	 az 1.04
+turn on
+t 213311	 ax 0.08	 ay 0.11	 az 1.13
+turn on
+t 213478	 ax -0.17	 ay 0.13	 az 1.20
+turn on
+t 213645	 ax 0.14	 ay -0.04	 az 0.89
+turn on
+t 213812	 ax -0.12	 ay 0.19	 az 1.29
+turn on
+t 213979	 ax 0.00	 ay -0.05	 az 0.94
+turn on
+t 214146	 ax 0.11	 ay 0.09	 az 1.12
+turn on
+t 214313	 ax 0.01	 ay 0.08	 az 1.04
+turn on
+t 214480	 ax 0.20	 ay -0.01	 az 0.89
+turn on
+t 214647	 ax -0.21	 ay 0.23	 az 1.34
+turn on
+t 214814	 ax 0.14	 ay -0.12	 az 0.79
+turn on
+t 214981	 ax 0.18	 ay 0.01	 az 0.98
+turn on
+t 215148	 ax -0.13	 ay 0.27	 az 1.45
+turn on
+t 215315	 ax -0.06	 ay -0.03	 az 0.95
+turn on
+t 215482	 ax 0.21	 ay -0.15	 az 0.74
+turn on
+t 215649	 ax 0.15	 ay -0.03	 az 0.95
+turn on
+t 215816	 ax -0.05	 ay 0.22	 az 1.35
+turn on
+t 215983	 ax -0.10	 ay 0.26	 az 1.42
+turn on
+t 216150	 ax -0.12	 ay 0.20	 az 1.25
+turn on
+t 216317	 ax -0.02	 ay 0.06	 az 0.96
+turn on
+t 216484	 ax -0.02	 ay 0.01	 az 0.94
+turn on
+t 216651	 ax 0.03	 ay -0.11	 az 0.90
+turn on
+t 216818	 ax 0.12	 ay -0.13	 az 0.79
+turn on
+t 216985	 ax 0.12	 ay -0.15	 az 0.75
+turn on
+t 217152	 ax 0.25	 ay -0.13	 az 0.74
+turn on
+t 217318	 ax 0.08	 ay 0.05	 az 1.16
+turn on
+t 217485	 ax 0.03	 ay 0.14	 az 1.29
+turn on
+t 217652	 ax -0.05	 ay 0.26	 az 1.39
+turn on
+t 217819	 ax -0.11	 ay 0.27	 az 1.44
+turn on
+t 217986	 ax -0.05	 ay 0.23	 az 1.47
+turn on
+t 218153	 ax -0.10	 ay 0.28	 az 1.47
+turn on
+t 218320	 ax -0.05	 ay 0.22	 az 1.43
+turn on
+t 218487	 ax -0.01	 ay 0.03	 az 1.15
+turn on
+t 218654	 ax 0.11	 ay -0.01	 az 1.01
+turn on
+t 218821	 ax 0.09	 ay -0.09	 az 0.82
+turn on
+t 218988	 ax 0.12	 ay -0.10	 az 0.60
+turn on
+t 219155	 ax 0.08	 ay 0.01	 az 0.76
+turn on
+t 219322	 ax -0.01	 ay 0.21	 az 1.23
+turn on
+t 219489	 ax -0.06	 ay 0.22	 az 1.50
+turn off
+t 219656	 ax 0.02	 ay -0.08	 az 1.27
+t 219823	 ax -0.03	 ay 0.14	 az 0.95
+t 219990	 ax 0.02	 ay 0.06	 az 1.07
+t 220157	 ax 0.02	 ay 0.07	 az 1.07
+t 220324	 ax 0.02	 ay 0.07	 az 1.07
+t 220491	 ax 0.02	 ay 0.07	 az 1.07
+t 220658	 ax 0.02	 ay 0.07	 az 1.07
+t 220825	 ax 0.02	 ay 0.07	 az 1.08
+t 220992	 ax 0.02	 ay 0.07	 az 1.07
+t 221159	 ax 0.02	 ay 0.07	 az 1.07
+t 221326	 ax 0.02	 ay 0.07	 az 1.08
+t 221493	 ax 0.02	 ay 0.07	 az 1.08
+t 221660	 ax 0.02	 ay 0.07	 az 1.08
+t 221827	 ax 0.02	 ay 0.07	 az 1.08
+t 221994	 ax 0.02	 ay 0.07	 az 1.08
+t 222160	 ax 0.02	 ay 0.07	 az 1.08
+t 222327	 ax 0.02	 ay 0.07	 az 1.08
+t 222494	 ax 0.02	 ay 0.07	 az 1.08
+t 222661	 ax 0.02	 ay 0.07	 az 1.08
+t 222828	 ax 0.02	 ay 0.07	 az 1.08
+t 222995	 ax 0.02	 ay 0.07	 az 1.08
+t 223162	 ax 0.02	 ay 0.07	 az 1.08
+t 223329	 ax 0.02	 ay 0.07	 az 1.08
+t 223496	 ax 0.02	 ay 0.07	 az 1.08
+t 223663	 ax 0.02	 ay 0.07	 az 1.08
+t 223830	 ax 0.02	 ay 0.07	 az 1.08
+t 223997	 ax 0.02	 ay 0.07	 az 1.08
+t 224164	 ax 0.02	 ay 0.07	 az 1.08
+t 224331	 ax 0.02	 ay 0.07	 az 1.08
+t 224498	 ax 0.02	 ay 0.07	 az 1.08
+t 224665	 ax 0.02	 ay 0.07	 az 1.08
+t 224832	 ax 0.02	 ay 0.07	 az 1.08
+t 224999	 ax 0.02	 ay 0.07	 az 1.08
+t 225166	 ax 0.02	 ay 0.07	 az 1.08
+t 225332	 ax 0.02	 ay 0.07	 az 1.08
+t 225499	 ax 0.02	 ay 0.07	 az 1.08
+t 225666	 ax 0.02	 ay 0.07	 az 1.08
+t 225833	 ax 0.02	 ay 0.07	 az 1.08
+t 226000	 ax 0.03	 ay 0.07	 az 1.08
+t 226167	 ax 0.02	 ay 0.07	 az 1.08
+t 226334	 ax 0.02	 ay 0.07	 az 1.08
+[Done] Closed the serial port 
+
