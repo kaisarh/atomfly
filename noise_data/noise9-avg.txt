@@ -1,0 +1,2652 @@
+ax 0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax 0.01  ay 0.04  az 1.08
+ax 0.00  ay 0.05  az 1.07
+ax 0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+min ax -0.00  ay 0.04  az 1.07
+max ax 0.01  ay 0.05  az 1.08
+avg ax 0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.03  az 1.08
+ax 0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.07
+ax -0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.07
+ax 0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+min ax -0.01  ay 0.04  az 1.08
+max ax 0.01  ay 0.04  az 1.08
+avg ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.05  az 1.08
+ax -0.00  ay 0.04  az 1.07
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax 0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.05  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.05  az 1.08
+min ax -0.01  ay 0.04  az 1.08
+max ax 0.01  ay 0.05  az 1.08
+avg ax 0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.03  az 1.08
+ax 0.00  ay 0.04  az 1.07
+ax 0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.07
+min ax -0.01  ay 0.03  az 1.08
+max ax 0.00  ay 0.04  az 1.08
+avg ax 0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.05  az 1.07
+ax -0.00  ay 0.04  az 1.07
+ax 0.00  ay 0.04  az 1.07
+ax -0.00  ay 0.04  az 1.07
+ax -0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.07
+ax -0.00  ay 0.03  az 1.07
+ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.07
+min ax -0.01  ay 0.03  az 1.07
+max ax 0.00  ay 0.05  az 1.08
+avg ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax 0.01  ay 0.05  az 1.08
+ax 0.00  ay 0.05  az 1.07
+ax 0.00  ay 0.04  az 1.09
+ax -0.00  ay 0.04  az 1.07
+ax 0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.07
+ax -0.00  ay 0.04  az 1.08
+min ax -0.00  ay 0.04  az 1.07
+max ax 0.01  ay 0.05  az 1.09
+avg ax 0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.07
+ax 0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.07
+ax 0.00  ay 0.05  az 1.07
+ax 0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.07
+ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+min ax -0.01  ay 0.04  az 1.07
+max ax 0.00  ay 0.05  az 1.08
+avg ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.07
+ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.07
+ax 0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.07
+ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.05  az 1.08
+min ax -0.00  ay 0.04  az 1.07
+max ax 0.01  ay 0.05  az 1.08
+avg ax 0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.07
+ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.05  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.05  az 1.08
+min ax -0.00  ay 0.03  az 1.08
+max ax 0.00  ay 0.05  az 1.08
+avg ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.07
+ax 0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.05  az 1.08
+ax 0.01  ay 0.04  az 1.08
+ax 0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.07
+ax -0.01  ay 0.04  az 1.08
+min ax -0.01  ay 0.04  az 1.07
+max ax 0.01  ay 0.05  az 1.08
+avg ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax 0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.07
+ax -0.01  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.07
+ax 0.00  ay 0.04  az 1.07
+ax 0.00  ay 0.05  az 1.07
+min ax -0.01  ay 0.04  az 1.07
+max ax 0.01  ay 0.05  az 1.08
+avg ax 0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax 0.01  ay 0.04  az 1.08
+ax 0.00  ay 0.05  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.05  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.08
+min ax -0.01  ay 0.04  az 1.08
+max ax 0.01  ay 0.05  az 1.08
+avg ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.05  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax 0.01  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.07
+ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+min ax -0.01  ay 0.04  az 1.07
+max ax 0.01  ay 0.05  az 1.08
+avg ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.06
+ax 0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.06
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.07
+ax -0.00  ay 0.04  az 1.07
+ax 0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.06
+min ax -0.01  ay 0.04  az 1.06
+max ax 0.00  ay 0.04  az 1.08
+avg ax -0.00  ay 0.04  az 1.07
+ax -0.00  ay 0.04  az 1.09
+ax 0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.07
+ax 0.00  ay 0.04  az 1.09
+ax 0.01  ay 0.04  az 1.08
+ax 0.01  ay 0.04  az 1.09
+ax 0.00  ay 0.04  az 1.09
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.09
+ax -0.00  ay 0.04  az 1.07
+min ax -0.01  ay 0.04  az 1.07
+max ax 0.01  ay 0.04  az 1.09
+avg ax 0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.09
+ax 0.00  ay 0.04  az 1.10
+ax -0.00  ay 0.04  az 1.07
+ax -0.01  ay 0.04  az 1.09
+ax -0.00  ay 0.04  az 1.06
+ax 0.00  ay 0.04  az 1.09
+ax -0.00  ay 0.04  az 1.09
+ax -0.00  ay 0.04  az 1.07
+ax -0.00  ay 0.04  az 1.09
+ax -0.00  ay 0.04  az 1.07
+min ax -0.01  ay 0.04  az 1.06
+max ax 0.00  ay 0.04  az 1.09
+avg ax -0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.09
+ax -0.00  ay 0.04  az 1.07
+ax -0.00  ay 0.05  az 1.09
+ax -0.00  ay 0.04  az 1.07
+ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax 0.01  ay 0.04  az 1.09
+ax 0.00  ay 0.04  az 1.07
+min ax -0.01  ay 0.04  az 1.07
+max ax 0.01  ay 0.05  az 1.08
+avg ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.03  az 1.08
+ax 0.00  ay 0.04  az 1.07
+ax -0.00  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.07
+ax -0.01  ay 0.04  az 1.09
+ax 0.00  ay 0.03  az 1.07
+min ax -0.01  ay 0.03  az 1.07
+max ax 0.00  ay 0.04  az 1.09
+avg ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.07
+ax -0.01  ay 0.04  az 1.09
+ax 0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.07
+ax -0.00  ay 0.04  az 1.09
+ax -0.01  ay 0.03  az 1.08
+min ax -0.01  ay 0.03  az 1.07
+max ax 0.00  ay 0.04  az 1.09
+avg ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.09
+ax 0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.03  az 1.08
+ax 0.01  ay 0.04  az 1.08
+ax 0.00  ay 0.03  az 1.07
+ax 0.00  ay 0.04  az 1.09
+ax 0.00  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.05  az 1.07
+ax -0.00  ay 0.04  az 1.07
+min ax -0.00  ay 0.03  az 1.07
+max ax 0.01  ay 0.05  az 1.09
+avg ax 0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.10
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.10
+ax -0.00  ay 0.04  az 1.07
+ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.09
+ax -0.00  ay 0.04  az 1.07
+min ax -0.01  ay 0.04  az 1.07
+max ax -0.00  ay 0.04  az 1.10
+avg ax -0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.09
+ax -0.00  ay 0.04  az 1.07
+ax 0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.07
+ax -0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.03  az 1.09
+ax 0.01  ay 0.04  az 1.07
+ax -0.00  ay 0.03  az 1.07
+ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.07
+min ax -0.01  ay 0.03  az 1.07
+max ax 0.01  ay 0.04  az 1.09
+avg ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.05  az 1.08
+ax 0.00  ay 0.03  az 1.08
+ax -0.00  ay 0.03  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.07
+ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+min ax -0.00  ay 0.03  az 1.07
+max ax 0.00  ay 0.05  az 1.08
+avg ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.09
+ax -0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.08
+min ax -0.01  ay 0.03  az 1.08
+max ax 0.00  ay 0.04  az 1.09
+avg ax -0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+min ax -0.01  ay 0.03  az 1.08
+max ax 0.00  ay 0.04  az 1.08
+avg ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.07
+ax 0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.06  az 0.36
+ax 0.01  ay 0.04  az 1.17
+ax 0.01  ay 0.04  az 1.09
+min ax -0.01  ay 0.03  az 1.07
+max ax 0.01  ay 0.06  az 1.08
+avg ax -0.00  ay 0.04  az 1.02
+ax 0.00  ay 0.03  az 0.95
+ax -0.02  ay 0.03  az 1.00
+ax -0.01  ay 0.03  az 1.06
+ax -0.03  ay 0.04  az 1.07
+ax -0.00  ay 0.04  az 1.09
+ax 0.04  ay 0.04  az 0.98
+ax 0.02  ay 0.04  az 1.17
+ax 0.02  ay 0.03  az 1.05
+ax -0.04  ay 0.03  az 1.08
+ax -0.03  ay 0.03  az 1.08
+min ax -0.04  ay 0.03  az 0.95
+max ax 0.04  ay 0.04  az 1.17
+avg ax -0.00  ay 0.04  az 1.05
+ax -0.00  ay 0.03  az 1.10
+ax 0.01  ay 0.03  az 1.06
+ax 0.01  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.07
+ax -0.00  ay 0.03  az 1.10
+ax -0.01  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax 0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.08
+min ax -0.01  ay 0.03  az 1.08
+max ax 0.01  ay 0.04  az 1.10
+avg ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.03  az 1.08
+ax 0.00  ay 0.03  az 1.08
+ax 0.02  ay 0.04  az 1.09
+ax -0.00  ay 0.04  az 1.06
+ax -0.02  ay 0.04  az 1.05
+ax -0.00  ay 0.04  az 1.07
+ax 0.01  ay 0.04  az 1.06
+ax 0.00  ay 0.04  az 1.07
+ax -0.00  ay 0.04  az 1.08
+min ax -0.02  ay 0.03  az 1.06
+max ax 0.02  ay 0.04  az 1.08
+avg ax -0.00  ay 0.04  az 1.07
+ax 0.01  ay 0.03  az 1.08
+ax 0.01  ay 0.04  az 1.10
+ax 0.01  ay 0.04  az 1.08
+ax 0.00  ay 0.03  az 1.07
+ax -0.00  ay 0.04  az 1.06
+ax 0.00  ay 0.03  az 1.08
+ax -0.00  ay 0.03  az 1.09
+ax -0.01  ay 0.04  az 1.08
+ax 0.01  ay 0.04  az 1.05
+ax 0.01  ay 0.04  az 1.09
+min ax -0.01  ay 0.03  az 1.05
+max ax 0.01  ay 0.04  az 1.09
+avg ax 0.00  ay 0.03  az 1.08
+ax 0.02  ay 0.03  az 1.07
+ax 0.00  ay 0.04  az 1.09
+ax 0.00  ay 0.03  az 1.06
+ax 0.01  ay 0.04  az 1.08
+ax 0.01  ay 0.03  az 1.09
+ax 0.01  ay 0.04  az 1.08
+ax 0.00  ay 0.03  az 1.10
+ax -0.00  ay 0.03  az 1.09
+ax -0.01  ay 0.04  az 1.08
+ax 0.00  ay 0.03  az 1.07
+min ax -0.01  ay 0.03  az 1.06
+max ax 0.02  ay 0.04  az 1.10
+avg ax 0.00  ay 0.03  az 1.08
+ax 0.03  ay 0.04  az 1.06
+ax 0.02  ay 0.04  az 1.05
+ax 0.02  ay 0.03  az 1.07
+ax 0.02  ay 0.04  az 1.09
+ax 0.01  ay 0.04  az 1.09
+ax -0.04  ay 0.02  az 0.99
+ax -0.01  ay 0.02  az 1.07
+ax 0.00  ay 0.04  az 1.13
+ax 0.01  ay 0.04  az 1.10
+ax 0.01  ay 0.03  az 1.13
+min ax -0.04  ay 0.02  az 1.06
+max ax 0.03  ay 0.04  az 1.13
+avg ax 0.01  ay 0.03  az 1.08
+ax 0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.13
+ax 0.01  ay 0.04  az 1.13
+ax 0.02  ay 0.04  az 1.20
+ax 0.02  ay 0.05  az 1.27
+ax 0.03  ay 0.05  az 1.32
+ax -0.03  ay 0.05  az 1.46
+ax -0.09  ay -0.01  az -0.89
+ax 0.06  ay 0.05  az 3.19
+min ax -0.09  ay 0.03  az 1.08
+max ax 0.06  ay 0.05  az 1.13
+avg ax 0.00  ay 0.04  az 1.20
+turn on
+ax 0.01  ay 0.02  az 1.16
+ax 0.03  ay 0.01  az 1.43
+ax 0.02  ay 0.07  az 2.55
+ax 0.00  ay 0.02  az 0.31
+ax 0.05  ay 0.04  az 2.01
+ax 0.00  ay 0.05  az 1.63
+ax -0.02  ay 0.03  az 0.85
+ax -0.00  ay 0.04  az 1.90
+ax -0.00  ay 0.03  az 0.44
+ax 0.02  ay 0.03  az 1.29
+min ax -0.02  ay 0.01  az 0.44
+max ax 0.05  ay 0.07  az 1.90
+avg ax 0.01  ay 0.03  az 1.36
+ax -0.00  ay 0.05  az 1.54
+ax -0.01  ay 0.02  az 0.79
+ax 0.01  ay 0.04  az 1.33
+ax 0.02  ay 0.03  az 0.83
+ax 0.02  ay 0.03  az 0.96
+ax 0.02  ay 0.02  az 1.14
+ax -0.00  ay 0.03  az 0.87
+ax -0.00  ay 0.04  az 1.04
+ax 0.03  ay 0.03  az 1.06
+ax -0.00  ay 0.03  az 0.90
+min ax -0.01  ay 0.02  az 0.87
+max ax 0.03  ay 0.05  az 1.54
+avg ax 0.01  ay 0.03  az 1.05
+ax -0.00  ay 0.03  az 1.25
+ax 0.02  ay 0.04  az 0.97
+ax 0.04  ay 0.03  az 1.20
+ax -0.05  ay 0.03  az 1.16
+ax 0.01  ay 0.03  az 0.92
+ax 0.07  ay 0.03  az 1.23
+ax -0.03  ay 0.06  az 1.03
+ax -0.02  ay 0.05  az 1.14
+ax 0.03  ay 0.05  az 1.27
+ax -0.04  ay -0.02  az 0.83
+min ax -0.05  ay -0.02  az 0.97
+max ax 0.07  ay 0.06  az 1.27
+avg ax 0.00  ay 0.03  az 1.10
+ax 0.04  ay -0.11  az 1.13
+ax 0.03  ay 0.14  az 1.02
+ax 0.01  ay -0.13  az 0.93
+ax -0.06  ay 0.22  az 1.12
+ax -0.10  ay -0.10  az 1.11
+ax 0.06  ay 0.13  az 1.00
+ax 0.12  ay 0.08  az 1.08
+ax 0.03  ay 0.05  az 1.01
+ax -0.11  ay 0.02  az 0.99
+ax 0.12  ay 0.01  az 0.95
+min ax -0.11  ay -0.11  az 0.95
+max ax 0.12  ay 0.22  az 1.13
+avg ax 0.01  ay 0.03  az 1.03
+ax 0.09  ay 0.06  az 0.83
+ax -0.12  ay 0.12  az 1.26
+ax -0.15  ay 0.01  az 1.43
+ax -0.07  ay -0.05  az 1.16
+ax -0.04  ay -0.03  az 0.64
+ax -0.05  ay -0.00  az 0.58
+ax 0.26  ay 0.06  az 0.85
+ax 0.57  ay 0.11  az 1.11
+ax 0.41  ay 0.07  az 1.60
+ax 0.25  ay -0.00  az 0.97
+min ax -0.15  ay -0.05  az 0.58
+max ax 0.57  ay 0.12  az 1.60
+avg ax 0.11  ay 0.03  az 1.04
+ax 0.25  ay -0.06  az 0.65
+ax 0.40  ay -0.12  az 0.49
+ax 0.45  ay -0.14  az 0.30
+ax 0.08  ay -0.21  az -0.26
+ax 0.06  ay -0.33  az -0.52
+ax 0.07  ay -0.51  az -0.91
+ax 0.14  ay -0.61  az -0.81
+ax 0.19  ay -0.70  az -0.58
+ax 0.62  ay -0.79  az -0.92
+ax 0.66  ay -0.81  az -0.67
+min ax 0.06  ay -0.81  az 0.65
+max ax 0.66  ay -0.06  az 0.65
+avg ax 0.29  ay -0.43  az -0.32
+ax 0.09  ay -0.22  az 0.96
+ax 0.26  ay -0.07  az 1.60
+ax 0.82  ay 0.32  az 1.63
+ax 1.06  ay 0.15  az 1.31
+ax 1.02  ay -0.16  az 0.79
+ax 0.18  ay -0.19  az 0.35
+ax -0.49  ay 0.15  az 0.88
+ax -1.31  ay 0.22  az 3.10
+ax -0.76  ay 0.57  az 3.32
+ax 0.72  ay 1.34  az 2.09
+min ax -1.31  ay -0.22  az 0.35
+max ax 1.06  ay 1.34  az 0.96
+avg ax 0.16  ay 0.21  az 1.60
+ax 0.76  ay 1.03  az -0.01
+ax 0.49  ay -0.11  az -0.35
+ax -0.71  ay -1.52  az -0.56
+ax -0.91  ay -0.41  az 0.45
+ax -0.17  ay 0.88  az 2.96
+ax 0.89  ay 0.36  az 2.31
+ax -0.60  ay -0.02  az 1.01
+ax -1.65  ay -0.08  az 0.34
+ax -1.60  ay -0.15  az 1.39
+ax 1.35  ay -0.31  az 0.88
+min ax -1.65  ay -0.31  az -0.01
+max ax 1.35  ay 1.03  az 2.96
+avg ax -0.22  ay -0.03  az 0.84
+ax 1.55  ay -0.04  az -0.48
+ax -1.51  ay 0.15  az 1.85
+ax -2.07  ay 0.36  az 3.42
+ax 1.23  ay -0.02  az 0.92
+ax 1.86  ay -0.14  az -0.86
+ax 0.62  ay -0.99  az -0.76
+ax -1.34  ay 0.24  az 3.27
+ax -0.68  ay 1.01  az 2.62
+ax 0.41  ay -0.13  az 0.61
+ax 0.03  ay -0.73  az -1.56
+min ax -2.07  ay -0.99  az -1.56
+max ax 1.86  ay 1.01  az 3.27
+avg ax 0.01  ay -0.03  az 0.90
+ax 0.24  ay -0.43  az 0.90
+ax 1.23  ay 0.67  az 3.43
+ax -0.35  ay 0.55  az 2.51
+ax -1.61  ay -0.69  az 0.40
+ax 0.69  ay -0.31  az -0.13
+ax 0.27  ay 0.51  az 2.22
+ax -0.10  ay 0.15  az -0.10
+ax -2.22  ay -0.29  az 1.86
+ax 0.93  ay 0.16  az 2.25
+ax 1.64  ay 0.55  az 1.21
+min ax -2.22  ay -0.43  az -0.13
+max ax 1.64  ay 0.55  az 2.25
+avg ax 0.07  ay 0.09  az 1.45
+ax -1.79  ay -0.78  az 2.06
+ax -0.59  ay -0.15  az 0.89
+ax 1.19  ay 1.39  az 1.15
+ax 0.24  ay 0.04  az -1.96
+ax -0.02  ay -1.47  az 0.50
+ax -0.19  ay 0.43  az 3.56
+ax 0.02  ay 2.26  az 2.13
+ax 1.08  ay -1.42  az -0.33
+ax 0.31  ay -1.34  az 1.64
+ax -0.58  ay 2.07  az 2.88
+min ax -1.79  ay -1.47  az -1.96
+max ax 1.19  ay 2.26  az 2.88
+avg ax -0.03  ay 0.10  az 1.25
+ax -1.79  ay 0.73  az -0.54
+ax 1.32  ay -0.91  az -1.02
+ax 1.04  ay 0.14  az 2.44
+ax -1.74  ay 1.50  az 2.71
+ax 1.55  ay -0.91  az -1.20
+ax 1.41  ay -0.95  az 1.08
+ax -1.77  ay 0.79  az 2.29
+ax -1.47  ay -0.30  az 1.85
+ax 0.28  ay 0.02  az -0.46
+ax 0.98  ay 0.04  az 1.30
+min ax -1.79  ay -0.95  az -0.54
+max ax 1.55  ay 1.50  az 2.44
+avg ax -0.02  ay 0.02  az 0.84
+ax -1.19  ay 0.43  az 0.68
+ax 0.28  ay 0.09  az 1.39
+ax 1.27  ay 0.12  az 1.56
+ax -1.19  ay -0.19  az 0.84
+ax -0.89  ay -0.06  az -0.33
+ax 0.59  ay 0.43  az 1.79
+ax -0.57  ay 0.22  az 0.94
+ax -0.91  ay -0.71  az 0.07
+ax 1.43  ay 0.88  az 2.00
+ax 0.45  ay 0.29  az 3.06
+min ax -1.19  ay -0.71  az -0.33
+max ax 1.43  ay 0.43  az 3.06
+avg ax -0.07  ay 0.15  az 1.20
+ax -0.75  ay -0.89  az -1.30
+ax 1.03  ay -0.54  az -0.12
+ax 1.48  ay 1.36  az 2.67
+ax -1.20  ay -0.03  az 2.06
+ax -1.25  ay -0.57  az -0.56
+ax 2.32  ay 0.36  az 1.85
+ax -1.57  ay -0.01  az 2.51
+ax -0.98  ay 0.16  az 0.83
+ax 0.43  ay -0.01  az 1.29
+ax 1.86  ay -0.11  az -0.45
+min ax -1.57  ay -0.89  az -1.30
+max ax 2.32  ay 0.16  az 1.29
+avg ax 0.14  ay -0.03  az 0.88
+ax -1.77  ay -0.08  az 2.15
+ax -0.80  ay 1.07  az 0.45
+ax 1.07  ay -0.91  az 1.43
+ax 0.21  ay 0.06  az -1.37
+ax -1.25  ay -0.56  az 2.11
+ax 1.23  ay 0.83  az -0.31
+ax 0.93  ay -0.65  az 1.53
+ax -1.10  ay -0.72  az -0.70
+ax -0.39  ay 1.14  az 4.82
+ax 0.90  ay -1.02  az -0.13
+min ax -1.77  ay -1.02  az -1.37
+max ax 1.23  ay 1.14  az 2.15
+avg ax -0.10  ay -0.08  az 1.00
+ax 0.29  ay -0.50  az 0.35
+ax -1.59  ay -0.45  az -0.42
+ax 1.08  ay 1.00  az 1.79
+ax -0.38  ay -0.78  az -0.32
+ax -1.10  ay -0.07  az 1.05
+ax 0.44  ay 0.68  az 2.72
+ax -0.58  ay -0.53  az 1.29
+ax 0.62  ay -0.03  az -0.17
+ax -0.51  ay 0.21  az 1.39
+ax 0.12  ay 0.00  az 0.01
+min ax -1.59  ay -0.78  az -0.17
+max ax 1.08  ay 0.68  az 1.39
+avg ax -0.16  ay -0.05  az 0.77
+ax 0.31  ay -0.25  az 1.90
+ax -0.70  ay 0.22  az 0.40
+ax 0.04  ay -0.37  az 0.25
+ax 0.31  ay 0.31  az 1.88
+ax -0.35  ay 0.47  az 2.31
+ax -0.86  ay -0.33  az 0.38
+ax 1.51  ay -0.02  az 0.89
+ax 0.39  ay 0.43  az 3.45
+ax -0.89  ay -0.91  az -1.29
+ax 0.77  ay -0.38  az -0.47
+min ax -0.89  ay -0.38  az 0.89
+max ax 1.51  ay 0.47  az 3.45
+avg ax 0.05  ay -0.09  az 0.97
+ax 0.04  ay 0.23  az 2.80
+ax -1.32  ay 0.22  az 1.96
+ax -1.08  ay -0.70  az -1.21
+ax 1.65  ay 0.81  az 2.41
+ax -1.40  ay 0.03  az 2.25
+ax -0.29  ay -0.29  az 0.40
+ax 1.08  ay -0.10  az 0.75
+ax 1.87  ay 0.14  az 0.13
+ax -1.78  ay -0.00  az 1.62
+ax -0.16  ay 0.61  az 0.15
+min ax -1.78  ay -0.70  az 0.13
+max ax 1.87  ay 0.61  az 2.80
+avg ax -0.14  ay 0.10  az 1.13
+ax 0.91  ay -0.94  az 1.07
+ax -0.17  ay 0.29  az -0.50
+ax -0.85  ay 0.62  az 2.98
+ax 1.46  ay 0.54  az -0.78
+ax 1.25  ay -1.32  az 1.00
+ax -1.30  ay -0.27  az 0.05
+ax -0.10  ay 0.83  az 4.37
+ax 0.59  ay -1.47  az -1.90
+ax -0.02  ay -0.43  az 1.19
+ax -0.14  ay 0.82  az 3.11
+min ax -1.30  ay -1.47  az -0.78
+max ax 1.46  ay 0.83  az 3.11
+avg ax 0.16  ay -0.13  az 1.06
+ax 1.27  ay 0.86  az 1.96
+ax -0.04  ay -1.23  az -1.70
+ax -0.30  ay 0.34  az 1.67
+ax -0.77  ay 0.50  az 2.80
+ax -0.50  ay -0.79  az 0.25
+ax 0.68  ay 0.09  az 0.44
+ax -0.94  ay 0.13  az 2.47
+ax 0.01  ay 0.20  az 0.49
+ax 0.78  ay -0.38  az 1.13
+ax -1.22  ay 0.15  az 0.62
+min ax -1.22  ay -0.79  az 0.44
+max ax 1.27  ay 0.86  az 2.80
+avg ax -0.10  ay -0.01  az 1.01
+ax -0.87  ay -0.13  az 0.25
+ax 1.23  ay 0.25  az 2.06
+ax -0.09  ay -0.02  az 1.10
+ax -0.38  ay -0.18  az -0.35
+ax 1.31  ay 0.73  az 1.99
+ax 0.85  ay 0.32  az 3.20
+ax -0.76  ay -0.37  az -0.64
+ax 1.15  ay -0.19  az 0.90
+ax 0.10  ay 0.59  az 2.11
+ax -2.39  ay -1.07  az -0.43
+min ax -2.39  ay -0.37  az 0.25
+max ax 1.31  ay 0.59  az 0.90
+avg ax 0.02  ay -0.01  az 1.02
+ax 2.73  ay 0.67  az 0.58
+ax 0.67  ay 0.68  az 3.69
+ax -1.24  ay 0.06  az 1.47
+ax 0.54  ay 0.03  az 0.89
+ax 2.37  ay 0.21  az 1.03
+ax -2.33  ay -0.22  az 1.60
+ax -2.33  ay 0.07  az 1.47
+ax 2.09  ay 0.71  az -0.12
+ax -0.63  ay -0.54  az 0.70
+ax -1.77  ay -0.07  az -0.76
+min ax -2.33  ay -0.54  az -0.76
+max ax 2.73  ay 0.71  az 1.60
+avg ax 0.01  ay 0.16  az 1.06
+ax 1.70  ay 1.48  az 1.94
+ax 1.97  ay 0.27  az -1.58
+ax -1.45  ay -0.61  az -0.17
+ax 0.08  ay 0.64  az 3.05
+ax 0.41  ay 1.50  az 4.34
+ax 0.27  ay -1.79  az 0.61
+ax 0.11  ay -0.46  az 2.42
+ax -0.70  ay 1.69  az 4.04
+ax -0.10  ay 0.04  az -2.45
+ax 1.76  ay -0.42  az 2.52
+min ax -1.45  ay -1.79  az -2.45
+max ax 1.97  ay 1.69  az 3.05
+avg ax 0.41  ay 0.23  az 1.47
+ax -1.48  ay 0.92  az 1.42
+ax -1.33  ay 0.95  az 3.48
+ax 1.86  ay -1.43  az 0.03
+ax 2.56  ay -0.05  az 1.50
+ax -1.66  ay 0.45  az 1.78
+ax -1.71  ay -0.10  az -0.25
+ax 2.52  ay -0.27  az 0.69
+ax -1.12  ay 0.12  az 1.79
+ax -2.72  ay 0.71  az 0.73
+ax 2.73  ay -0.02  az 0.73
+min ax -2.72  ay -1.43  az 0.69
+max ax 2.73  ay 0.92  az 1.79
+avg ax -0.03  ay 0.13  az 1.19
+ax 2.54  ay -0.51  az 0.27
+ax -3.14  ay 0.77  az 1.05
+ax -0.07  ay 0.17  az 2.38
+ax 1.56  ay -0.59  az -0.26
+ax -1.26  ay -0.45  az -0.76
+ax -2.56  ay 1.05  az 2.81
+ax 2.44  ay -0.06  az 0.36
+ax 1.20  ay -0.42  az 0.43
+ax -1.22  ay 0.71  az 2.84
+ax 0.50  ay 0.71  az 3.40
+min ax -3.14  ay -0.59  az -0.76
+max ax 2.54  ay 1.05  az 3.40
+avg ax 0.00  ay 0.14  az 1.25
+ax 0.60  ay -0.79  az -0.00
+ax -2.03  ay -0.60  az -0.52
+ax -0.14  ay 0.71  az 1.85
+ax -0.23  ay 0.17  az 0.80
+ax 0.31  ay -0.75  az -1.98
+ax -0.20  ay 0.25  az 2.33
+ax 1.32  ay 0.96  az 1.42
+ax -1.25  ay -0.84  az -0.13
+ax 1.03  ay -0.01  az -0.98
+ax 1.25  ay -0.14  az 3.75
+min ax -2.03  ay -0.84  az -1.98
+max ax 1.32  ay 0.71  az 3.75
+avg ax 0.07  ay -0.10  az 0.65
+ax -1.33  ay 0.28  az 0.41
+ax -0.88  ay -1.13  az 1.86
+ax 1.10  ay -0.44  az 2.22
+ax -0.95  ay 0.62  az 1.66
+ax 0.68  ay -0.68  az 2.19
+ax 1.58  ay 0.30  az 0.81
+ax 0.31  ay -0.12  az 0.68
+ax -1.69  ay 0.41  az 1.24
+ax 1.78  ay -0.13  az 1.57
+ax -0.79  ay -0.05  az 0.52
+min ax -1.69  ay -1.13  az 0.41
+max ax 1.78  ay 0.62  az 2.19
+avg ax -0.02  ay -0.09  az 1.32
+ax -1.34  ay -0.01  az 0.02
+ax 1.79  ay 0.15  az 2.41
+ax 1.63  ay -0.23  az -0.08
+ax -1.55  ay -0.16  az 0.76
+ax 0.33  ay 0.32  az 2.21
+ax 1.50  ay 0.34  az 3.37
+ax -1.64  ay -0.16  az -0.24
+ax -1.06  ay 0.40  az 1.63
+ax 1.01  ay 0.19  az 2.39
+ax -0.65  ay -0.59  az -0.50
+min ax -1.64  ay -0.59  az 0.02
+max ax 1.79  ay 0.40  az 2.39
+avg ax 0.00  ay 0.03  az 1.20
+ax -1.68  ay -0.26  az -1.09
+ax 1.48  ay 0.19  az 3.36
+ax 0.73  ay 0.62  az 1.95
+ax -1.26  ay -0.51  az 0.00
+ax 1.88  ay 0.58  az 0.63
+ax 1.95  ay 0.16  az 3.27
+ax -3.33  ay -0.43  az -0.85
+ax -0.38  ay -0.72  az -0.10
+ax 1.25  ay 0.61  az 2.40
+ax -1.86  ay 0.29  az 2.41
+min ax -3.33  ay -0.72  az -1.09
+max ax 1.95  ay 0.62  az 2.41
+avg ax -0.12  ay 0.05  az 1.20
+ax 1.38  ay -0.50  az -0.74
+ax 2.96  ay -0.50  az 1.60
+ax 0.12  ay 0.64  az 1.99
+ax -1.49  ay -0.19  az 1.57
+ax 2.14  ay -0.29  az 0.40
+ax -1.18  ay 0.01  az 1.81
+ax -2.04  ay -0.10  az 0.67
+ax 1.72  ay 0.00  az 2.73
+ax 0.46  ay -0.03  az 1.35
+ax -1.34  ay 0.21  az -0.73
+min ax -2.04  ay -0.50  az -0.74
+max ax 2.96  ay 0.64  az 2.73
+avg ax 0.27  ay -0.07  az 1.06
+ax 0.81  ay 0.27  az 2.09
+ax 1.07  ay 0.83  az 2.15
+ax -0.96  ay -0.46  az -0.18
+ax 1.48  ay -0.82  az -1.57
+ax -0.83  ay 1.13  az 3.56
+ax -0.01  ay -0.09  az -1.20
+ax -0.09  ay -0.70  az -0.29
+ax 1.55  ay 0.66  az 2.98
+ax -1.07  ay 1.28  az 3.52
+ax 1.10  ay -1.12  az -0.97
+min ax -1.07  ay -1.12  az -1.20
+max ax 1.55  ay 1.28  az 2.09
+avg ax 0.31  ay 0.10  az 1.01
+ax 1.17  ay -1.28  az 0.66
+ax -0.75  ay 1.26  az 2.72
+ax -2.00  ay 0.22  az -0.70
+ax 0.70  ay -1.34  az -0.18
+ax -0.47  ay 0.55  az 1.01
+ax -0.17  ay -0.17  az 1.53
+ax 0.23  ay -0.34  az 0.11
+ax 1.29  ay -0.21  az 2.05
+ax -0.19  ay 0.68  az 0.97
+ax -0.23  ay -0.29  az 1.68
+min ax -2.00  ay -1.34  az 0.11
+max ax 1.29  ay 1.26  az 1.68
+avg ax -0.04  ay -0.09  az 0.98
+ax 0.33  ay 0.32  az 1.36
+ax -0.27  ay 0.26  az 0.69
+ax -0.92  ay -0.04  az -0.82
+ax 0.28  ay 0.46  az 2.77
+ax -0.30  ay 0.46  az 0.89
+ax 0.01  ay -0.43  az 0.35
+ax 0.54  ay 0.19  az 2.65
+ax 0.02  ay 0.53  az 3.94
+ax 0.11  ay -0.46  az -0.26
+ax 0.45  ay -1.08  az 0.16
+min ax -0.92  ay -1.08  az 0.89
+max ax 0.54  ay 0.53  az 1.36
+avg ax 0.03  ay 0.02  az 1.17
+ax 0.19  ay 0.40  az 3.64
+ax -0.86  ay 0.66  az 0.29
+ax 0.12  ay -0.22  az -2.12
+ax 0.22  ay 0.12  az 2.61
+ax -0.68  ay 0.72  az 2.08
+ax -0.35  ay -0.21  az -2.39
+ax 1.79  ay -1.51  az 0.54
+ax -1.88  ay 1.45  az 1.16
+ax -1.83  ay -0.01  az 2.91
+ax -0.10  ay -0.10  az -0.86
+min ax -1.88  ay -1.51  az -2.39
+max ax 1.79  ay 1.45  az 3.64
+avg ax -0.34  ay 0.13  az 0.79
+ax 1.29  ay -0.02  az 2.85
+ax -1.46  ay 1.11  az -0.02
+ax -0.26  ay -0.23  az 1.37
+ax 1.50  ay 0.06  az -0.11
+ax -1.31  ay 0.53  az 0.02
+ax -1.29  ay 0.21  az 1.30
+ax 0.64  ay -0.18  az 2.45
+ax 0.39  ay -0.50  az 0.97
+ax -1.17  ay 0.04  az 0.17
+ax 1.14  ay -0.24  az 2.85
+min ax -1.46  ay -0.50  az -0.11
+max ax 1.50  ay 1.11  az 2.85
+avg ax -0.05  ay 0.08  az 1.19
+ax 0.79  ay 0.06  az 0.53
+ax -0.79  ay -0.50  az 0.07
+ax -0.72  ay 0.99  az 2.06
+ax 0.96  ay 0.18  az 2.38
+ax -0.79  ay 0.12  az -0.37
+ax -0.59  ay -0.27  az 0.31
+ax 0.76  ay 0.34  az 2.27
+ax -0.20  ay -0.29  az 0.76
+ax -1.36  ay 0.14  az -0.11
+ax 2.85  ay 0.28  az 2.15
+min ax -1.36  ay -0.29  az 0.53
+max ax 2.85  ay 0.99  az 2.27
+avg ax 0.09  ay 0.10  az 1.00
+ax 0.56  ay 0.40  az 2.80
+ax -0.31  ay -0.16  az -0.46
+ax 0.53  ay -0.34  az -0.18
+ax 0.16  ay 0.30  az 2.28
+ax -3.00  ay 0.68  az 1.51
+ax -1.17  ay -0.11  az -0.29
+ax 2.31  ay -0.71  az 1.72
+ax -0.51  ay 0.22  az 0.96
+ax -1.33  ay -0.19  az 1.24
+ax 3.08  ay -0.51  az 0.64
+min ax -3.00  ay -0.71  az -0.29
+max ax 3.08  ay 0.68  az 2.80
+avg ax 0.03  ay -0.04  az 1.02
+ax -2.26  ay 0.06  az 1.29
+ax -1.97  ay 0.76  az 1.40
+ax 0.60  ay 0.13  az 1.54
+ax 0.92  ay -0.18  az -0.30
+ax -1.74  ay -0.10  az -0.15
+ax 1.81  ay 0.29  az 1.77
+ax 1.12  ay -0.36  az 1.04
+ax -1.17  ay -0.08  az -0.48
+ax 0.40  ay 0.51  az 2.96
+ax 0.91  ay 0.35  az 2.79
+min ax -2.26  ay -0.36  az -0.48
+max ax 1.81  ay 0.51  az 2.79
+avg ax -0.14  ay 0.14  az 1.19
+ax -1.67  ay -0.02  az -0.48
+ax -0.99  ay -0.47  az -0.00
+ax 0.87  ay 0.42  az 2.88
+ax -2.45  ay 0.26  az 1.39
+ax 1.14  ay -0.27  az 0.17
+ax 2.23  ay -0.52  az 2.00
+ax 0.29  ay 0.38  az 2.14
+ax -1.31  ay -0.34  az -0.32
+ax 3.09  ay -0.46  az 0.60
+ax -1.97  ay 0.39  az 1.48
+min ax -2.45  ay -0.52  az -0.48
+max ax 3.09  ay 0.39  az -0.32
+avg ax -0.08  ay -0.07  az 0.99
+ax -2.07  ay 0.54  az 1.43
+ax 2.30  ay -0.56  az 0.74
+ax 1.31  ay -0.18  az 1.10
+ax -2.10  ay 0.44  az 0.73
+ax 1.97  ay -0.26  az 1.97
+ax 1.23  ay 0.16  az 1.19
+ax -0.61  ay -0.26  az -0.26
+ax -0.66  ay 0.77  az 2.45
+ax 0.69  ay -0.39  az 1.15
+ax -1.07  ay 0.17  az 0.21
+min ax -2.10  ay -0.56  az -0.26
+max ax 2.30  ay 0.77  az 1.97
+avg ax 0.10  ay 0.04  az 1.07
+ax -0.71  ay -0.32  az -0.44
+ax 0.32  ay 0.59  az 2.87
+ax -1.69  ay -0.15  az 0.56
+ax 0.46  ay -0.36  az -0.44
+ax 1.17  ay 0.24  az 2.31
+ax -1.93  ay 0.45  az 0.83
+ax -0.58  ay -0.50  az -1.92
+ax 1.84  ay -0.75  az 0.56
+ax -1.36  ay 0.76  az 2.13
+ax -1.74  ay 0.36  az 2.24
+min ax -1.93  ay -0.75  az -0.44
+max ax 1.84  ay 0.76  az 2.24
+avg ax -0.42  ay 0.03  az 0.87
+ax 2.44  ay -1.09  az 0.13
+ax 1.93  ay 0.06  az 2.23
+ax -1.74  ay -0.10  az 1.47
+ax 0.81  ay -0.51  az 1.31
+ax 1.52  ay 0.19  az 0.12
+ax -1.39  ay 0.37  az 1.03
+ax -1.56  ay 0.36  az 0.59
+ax 1.27  ay 0.19  az 1.41
+ax -0.47  ay -0.06  az -0.17
+ax -0.69  ay -0.41  az 0.64
+min ax -1.74  ay -1.09  az -0.17
+max ax 2.44  ay 0.37  az 1.47
+avg ax 0.21  ay -0.10  az 0.88
+ax 0.97  ay 0.04  az 2.04
+ax 0.91  ay -0.26  az 1.68
+ax -0.34  ay -0.48  az -0.64
+ax 1.04  ay 0.32  az 2.76
+ax -0.47  ay -0.32  az 0.88
+ax -0.25  ay -0.15  az 0.28
+ax -0.16  ay -0.21  az -1.20
+ax -0.05  ay 0.48  az 3.60
+ax -1.64  ay 0.35  az -0.01
+ax 0.57  ay -0.46  az 0.39
+min ax -1.64  ay -0.46  az 2.04
+max ax 1.04  ay 0.48  az 2.04
+avg ax 0.06  ay -0.07  az 0.98
+ax 1.01  ay 0.09  az 1.46
+ax -1.73  ay 0.90  az 2.28
+ax -0.62  ay -0.29  az -1.82
+ax 1.99  ay -1.09  az 1.09
+ax -1.08  ay 0.87  az 2.22
+ax -1.78  ay 0.25  az 2.81
+ax 1.88  ay -0.95  az 0.51
+ax 1.41  ay 0.03  az 2.49
+ax -1.35  ay -0.44  az 1.60
+ax -0.30  ay -0.16  az 1.55
+min ax -1.78  ay -1.09  az 0.51
+max ax 1.99  ay 0.90  az 2.81
+avg ax -0.06  ay -0.08  az 1.42
+ax 1.20  ay 0.14  az -0.02
+ax -1.10  ay 0.50  az 0.57
+ax -1.13  ay 0.16  az 0.34
+ax 0.78  ay 0.42  az 1.51
+ax 0.36  ay -0.31  az 0.36
+ax -0.76  ay 0.32  az -0.13
+ax 0.47  ay -0.10  az 2.37
+ax 0.28  ay 0.39  az 3.28
+ax -0.05  ay -0.42  az 0.06
+ax 0.44  ay -0.06  az 0.95
+min ax -1.13  ay -0.42  az -0.13
+max ax 1.20  ay 0.50  az 3.28
+avg ax 0.05  ay 0.10  az 0.93
+ax -0.08  ay 0.57  az 3.84
+ax -0.30  ay -0.37  az -0.58
+ax 0.73  ay -1.05  az 2.03
+ax -0.37  ay 0.63  az 2.89
+ax -0.04  ay 1.11  az 1.72
+ax -0.07  ay -0.16  az -1.54
+ax 1.26  ay -1.97  az -0.15
+ax -1.39  ay 1.86  az 1.41
+ax -1.14  ay 0.28  az 1.99
+ax 0.28  ay -0.86  az 0.20
+min ax -1.39  ay -1.97  az -1.54
+max ax 1.26  ay 1.86  az 3.84
+avg ax -0.11  ay 0.00  az 1.18
+ax 0.95  ay -0.05  az 3.48
+ax -0.72  ay 1.30  az 2.26
+ax -0.94  ay -0.57  az 2.28
+ax 1.17  ay 0.30  az -1.16
+ax -0.20  ay 0.78  az 2.35
+ax -1.08  ay 0.47  az -0.60
+ax -0.90  ay -0.88  az 2.43
+ax 1.12  ay 0.07  az 1.16
+ax -0.10  ay -0.03  az 1.85
+ax -0.64  ay -0.47  az 2.60
+min ax -1.08  ay -0.88  az -1.16
+max ax 1.17  ay 1.30  az 3.48
+avg ax -0.13  ay 0.09  az 1.66
+ax 0.65  ay 0.36  az 2.10
+ax -0.14  ay -0.51  az 1.33
+ax -0.60  ay -0.02  az -1.04
+ax -0.61  ay -0.21  az 2.36
+ax 0.99  ay 0.91  az -0.61
+ax 0.08  ay -0.51  az 0.63
+ax -0.76  ay 0.06  az 1.72
+ax -0.39  ay 0.26  az 4.66
+ax 0.65  ay -0.27  az -0.61
+ax -0.41  ay -1.34  az 0.74
+min ax -0.76  ay -1.34  az -0.61
+max ax 0.99  ay 0.36  az 4.66
+avg ax -0.05  ay -0.13  az 1.13
+ax -0.38  ay -0.43  az 1.04
+ax -0.16  ay 1.99  az 1.61
+ax 0.52  ay 0.07  az -2.47
+ax 0.68  ay -0.56  az 0.19
+ax -0.54  ay 0.50  az 3.27
+ax -0.48  ay 0.18  az -2.62
+ax 0.33  ay -1.53  az 1.11
+ax 1.25  ay 0.19  az 0.01
+ax -0.67  ay 0.23  az 4.01
+ax -0.92  ay 0.82  az -1.61
+min ax -0.92  ay -1.53  az -2.62
+max ax 1.25  ay 0.82  az 4.01
+avg ax -0.04  ay 0.15  az 0.45
+ax 1.48  ay 0.37  az -0.20
+ax 0.87  ay -0.12  az 1.25
+ax -1.46  ay 0.74  az -0.93
+ax -0.58  ay -0.80  az 2.53
+ax 1.29  ay 0.36  az 0.11
+ax -0.69  ay 0.24  az 1.55
+ax -1.59  ay 0.57  az -0.09
+ax 1.19  ay 0.24  az 0.58
+ax 0.89  ay -0.30  az 0.95
+ax -0.85  ay -0.01  az 0.59
+min ax -1.59  ay -0.80  az -0.20
+max ax 1.48  ay 0.74  az 2.53
+avg ax 0.05  ay 0.13  az 0.63
+ax 0.61  ay -0.19  az 2.67
+ax 0.75  ay 0.41  az 1.52
+ax -0.81  ay -0.22  az 0.35
+ax -0.77  ay 0.38  az -0.07
+ax 0.26  ay 0.66  az 2.51
+ax -0.08  ay -0.38  az -0.53
+ax -0.17  ay -0.45  az 0.43
+ax 0.63  ay -0.12  az 2.77
+ax 0.10  ay 0.55  az 3.11
+ax -0.12  ay -0.49  az 0.25
+min ax -0.81  ay -0.49  az -0.07
+max ax 0.75  ay 0.66  az 3.11
+avg ax 0.04  ay 0.02  az 1.30
+ax 0.49  ay -0.02  az 0.21
+ax 0.08  ay 0.50  az 3.91
+ax -0.92  ay 0.20  az -0.45
+ax 0.34  ay -0.31  az -1.22
+ax 0.14  ay 0.07  az 1.54
+ax -0.08  ay 0.29  az 3.40
+ax -0.27  ay -0.10  az -2.52
+ax 1.33  ay -1.21  az 1.56
+ax -0.50  ay 0.87  az 2.43
+ax -1.60  ay 0.02  az 3.23
+min ax -1.60  ay -1.21  az -2.52
+max ax 1.33  ay 0.87  az 3.40
+avg ax -0.10  ay 0.03  az 1.21
+ax -0.81  ay 0.37  az -2.08
+ax 1.29  ay 0.05  az 2.00
+ax -0.08  ay 0.83  az 0.19
+ax -1.30  ay 0.46  az -0.29
+ax 0.81  ay -0.57  az 0.86
+ax 0.18  ay 0.89  az -0.46
+ax -0.72  ay -0.43  az 1.41
+ax -1.08  ay 0.22  az 1.31
+ax 0.87  ay -0.21  az 2.80
+ax 0.14  ay 0.37  az -0.67
+min ax -1.30  ay -0.57  az -2.08
+max ax 1.29  ay 0.89  az 2.80
+avg ax -0.07  ay 0.20  az 0.51
+ax -0.69  ay -0.01  az 2.55
+ax 0.51  ay 0.42  az 1.24
+ax -0.08  ay -0.15  az -0.11
+ax -0.05  ay -0.22  az -2.19
+ax -0.31  ay -0.04  az 3.44
+ax 0.62  ay 0.95  az 1.52
+ax 0.19  ay -0.74  az 0.86
+ax -0.12  ay -1.13  az 2.51
+ax -0.84  ay 0.25  az 3.85
+ax 0.06  ay -0.05  az 0.66
+min ax -0.84  ay -1.13  az 0.66
+max ax 0.62  ay 0.25  az 3.44
+avg ax -0.07  ay -0.07  az 1.43
+ax 0.24  ay -0.41  az -0.84
+ax 0.70  ay -1.73  az -0.42
+ax -0.52  ay 2.00  az 1.17
+ax -0.51  ay 0.24  az 1.07
+ax 0.89  ay -0.97  az -2.18
+ax 0.72  ay 0.11  az 3.95
+ax -0.25  ay 1.43  az 2.11
+ax -1.03  ay -0.81  az 1.88
+ax 1.19  ay -0.04  az -2.10
+ax 0.03  ay 1.11  az 1.10
+min ax -1.03  ay -1.73  az -2.18
+max ax 1.19  ay 2.00  az 3.95
+avg ax 0.15  ay 0.09  az 0.58
+ax -1.11  ay 0.11  az 0.97
+ax 0.70  ay 0.10  az -1.21
+ax 1.24  ay -0.39  az 2.70
+ax 0.18  ay 0.87  az 0.44
+ax -1.08  ay -0.30  az 2.03
+ax 0.77  ay 0.30  az 0.31
+ax -0.11  ay 0.32  az -0.17
+ax -0.81  ay -0.10  az -0.06
+ax 0.59  ay 0.35  az 1.16
+ax 0.80  ay -0.28  az 2.27
+min ax -1.11  ay -0.39  az -0.17
+max ax 1.24  ay 0.87  az 2.27
+avg ax 0.12  ay 0.10  az 0.84
+ax -0.19  ay 0.08  az -0.21
+ax -0.23  ay 0.07  az 3.03
+ax 0.14  ay 0.53  az 1.57
+ax -0.09  ay -0.30  az 0.19
+ax -0.08  ay -0.28  az -2.37
+ax -0.45  ay 0.48  az 2.19
+ax 0.43  ay 0.69  az 1.42
+ax 0.21  ay -0.79  az 0.65
+ax 0.08  ay -1.01  az 2.38
+ax -0.74  ay 0.32  az 3.66
+min ax -0.74  ay -1.01  az -2.37
+max ax 0.43  ay 0.48  az 3.66
+avg ax -0.09  ay -0.02  az 1.25
+ax -0.17  ay 0.00  az 0.82
+ax 0.19  ay -0.28  az -1.24
+ax 0.22  ay 0.25  az 4.44
+ax -1.12  ay 1.73  az 1.15
+ax -0.76  ay 0.48  az 2.14
+ax 0.96  ay -1.22  az -1.62
+ax 1.14  ay 0.12  az 3.38
+ax -1.11  ay 0.30  az 3.03
+ax -0.64  ay -0.20  az 0.58
+ax 1.25  ay -0.50  az 2.66
+min ax -1.12  ay -1.22  az 0.58
+max ax 1.25  ay 1.73  az 3.03
+avg ax -0.00  ay 0.07  az 1.53
+ax 0.02  ay 1.00  az 0.12
+ax -0.77  ay -0.15  az 2.69
+ax 0.51  ay -0.49  az -0.35
+ax 0.92  ay -0.21  az 2.49
+ax -0.40  ay -0.40  az 2.03
+ax -1.16  ay 0.41  az 0.42
+ax 1.02  ay -0.11  az 2.11
+ax 0.05  ay 0.53  az -0.11
+ax -0.31  ay -0.33  az 1.06
+ax 0.47  ay -0.20  az 2.01
+min ax -1.16  ay -0.49  az -0.11
+max ax 1.02  ay 1.00  az 2.69
+avg ax 0.03  ay 0.01  az 1.25
+ax 0.65  ay 0.12  az 2.66
+ax -0.22  ay -0.29  az 0.30
+ax -0.67  ay 0.12  az 0.28
+ax 0.28  ay 0.40  az 3.52
+ax -0.30  ay 0.05  az -0.49
+ax 0.04  ay -0.32  az -0.01
+ax 0.28  ay 0.29  az 2.16
+ax 0.04  ay 0.61  az 4.04
+ax 0.08  ay -0.37  az -0.11
+ax 0.30  ay -0.93  az -0.10
+min ax -0.67  ay -0.93  az 2.16
+max ax 0.65  ay 0.61  az 2.66
+avg ax 0.05  ay -0.03  az 1.22
+ax 0.11  ay 0.31  az 4.03
+ax -0.63  ay 0.89  az 0.03
+ax 0.14  ay -0.20  az -1.16
+ax 0.15  ay -0.29  az 1.28
+ax 0.02  ay 0.39  az 3.79
+ax -0.53  ay 0.10  az -1.62
+ax 0.96  ay -1.17  az 0.48
+ax 1.40  ay -0.62  az -0.90
+ax -1.10  ay 0.99  az 3.35
+ax -1.43  ay 0.41  az -1.19
+min ax -1.43  ay -1.17  az -1.62
+max ax 1.40  ay 0.99  az 4.03
+avg ax -0.09  ay 0.08  az 0.81
+ax 1.57  ay 0.21  az -0.71
+ax 0.82  ay -0.37  az 2.09
+ax -1.18  ay 0.53  az -0.36
+ax -0.66  ay -0.86  az 2.63
+ax 0.90  ay 0.31  az -0.86
+ax -0.32  ay 0.77  az 1.51
+ax -0.97  ay 0.19  az 0.45
+ax 0.67  ay 0.29  az 0.17
+ax 1.10  ay -0.30  az 1.93
+ax -0.66  ay -0.06  az 0.24
+min ax -1.18  ay -0.86  az -0.86
+max ax 1.57  ay 0.77  az 2.63
+avg ax 0.13  ay 0.07  az 0.71
+ax -0.50  ay 0.07  az 2.24
+ax 0.67  ay 0.34  az 1.51
+ax -0.49  ay 0.13  az -0.07
+ax -0.52  ay -0.24  az -0.64
+ax 0.50  ay 0.36  az 1.76
+ax 0.39  ay 0.05  az 2.71
+ax -0.25  ay -0.38  az -1.27
+ax 0.70  ay -0.07  az 2.44
+ax -0.43  ay 0.36  az 1.90
+ax -0.24  ay -0.53  az -0.19
+min ax -0.52  ay -0.53  az -0.07
+max ax 0.70  ay 0.36  az 2.71
+avg ax -0.02  ay 0.01  az 1.04
+ax -0.08  ay -0.20  az -1.67
+ax -0.22  ay 0.68  az 2.69
+ax -0.24  ay 0.73  az 2.37
+ax -0.26  ay -0.20  az -2.10
+ax 1.09  ay -1.62  az 0.36
+ax 1.30  ay -0.16  az 2.14
+ax -1.43  ay 0.94  az 3.40
+ax -1.03  ay -0.04  az -1.84
+ax 1.65  ay 0.18  az 1.21
+ax -0.55  ay 0.44  az 1.57
+min ax -1.43  ay -1.62  az -1.84
+max ax 1.65  ay 0.94  az 1.57
+avg ax 0.02  ay 0.07  az 0.81
+ax -1.23  ay 0.87  az -1.01
+ax 0.47  ay -0.91  az 1.11
+ax 1.27  ay 0.10  az 1.66
+ax -0.44  ay -0.07  az 1.91
+ax -1.50  ay 0.62  az 0.29
+ax 0.98  ay 0.06  az 1.66
+ax 0.34  ay 0.02  az 0.52
+ax -0.47  ay -0.13  az 0.61
+ax 0.72  ay -0.09  az 1.77
+ax 0.79  ay 0.41  az 2.86
+min ax -1.50  ay -0.91  az -1.01
+max ax 1.27  ay 0.87  az 2.86
+avg ax 0.09  ay 0.09  az 1.14
+ax -0.47  ay -0.24  az -0.33
+ax -0.32  ay -0.57  az -0.53
+ax 0.43  ay 0.64  az 3.35
+ax -1.35  ay 0.17  az 0.99
+ax -0.09  ay -0.31  az -0.47
+ax 0.92  ay 0.64  az 2.12
+ax 0.48  ay 0.44  az 3.26
+ax -0.95  ay -0.35  az -1.20
+ax 0.34  ay -0.64  az -0.41
+ax 1.67  ay 0.37  az 3.30
+min ax -1.35  ay -0.64  az -1.20
+max ax 1.67  ay 0.44  az -0.33
+avg ax 0.07  ay 0.01  az 1.01
+ax -1.95  ay 0.88  az 3.10
+ax -2.29  ay 0.28  az 0.38
+ax 1.59  ay -0.36  az 0.23
+ax 1.60  ay 0.11  az 1.82
+ax -1.57  ay -0.10  az 0.95
+ax 0.68  ay -0.60  az 0.95
+ax 1.22  ay -0.21  az 0.92
+ax -1.37  ay 0.38  az 0.81
+ax -1.40  ay 0.09  az 0.86
+ax 0.96  ay 0.30  az 2.50
+min ax -2.29  ay -0.60  az 0.81
+max ax 1.60  ay 0.88  az 3.10
+avg ax -0.25  ay 0.08  az 1.25
+ax 0.49  ay -0.28  az 0.64
+ax -0.94  ay -0.18  az -0.23
+ax 1.36  ay 0.36  az 1.83
+ax -0.59  ay -0.19  az 1.29
+ax -0.62  ay -0.13  az -0.52
+ax -0.39  ay -0.62  az -0.79
+ax -0.14  ay 0.61  az 3.26
+ax -1.50  ay 0.33  az 1.93
+ax -0.13  ay -0.48  az -0.04
+ax 2.09  ay -0.46  az 0.27
+min ax -1.50  ay -0.62  az -0.52
+max ax 2.09  ay 0.61  az 1.93
+avg ax -0.04  ay -0.10  az 0.76
+ax -2.34  ay 0.52  az 2.43
+ax -2.05  ay 0.33  az 0.46
+ax 0.64  ay -0.55  az -0.30
+ax 1.64  ay 0.20  az 1.53
+ax -2.42  ay 0.67  az 1.78
+ax 1.18  ay -0.30  az 0.80
+ax 1.57  ay 0.00  az 1.34
+ax 0.68  ay -0.24  az 0.51
+ax -1.70  ay 0.29  az 1.55
+ax 1.61  ay 0.11  az 1.77
+min ax -2.42  ay -0.55  az 0.51
+max ax 1.64  ay 0.67  az 2.43
+avg ax -0.12  ay 0.10  az 1.19
+ax -0.09  ay -0.50  az 0.20
+ax -1.17  ay -0.10  az -0.60
+ax 1.62  ay 0.06  az 1.85
+ax 0.50  ay 0.64  az 2.82
+ax -1.91  ay -0.43  az 0.98
+ax 0.99  ay -0.18  az -0.08
+ax 1.76  ay 0.03  az 2.99
+ax -2.90  ay 0.13  az 1.31
+ax -1.05  ay -0.43  az -1.12
+ax 2.01  ay -0.42  az 2.30
+min ax -2.90  ay -0.50  az -1.12
+max ax 2.01  ay 0.64  az 1.31
+avg ax -0.03  ay -0.12  az 1.07
+ax -0.14  ay 0.71  az 2.18
+ax -2.63  ay 0.69  az 1.71
+ax 2.49  ay -0.43  az -0.45
+ax 2.24  ay -0.31  az 1.19
+ax -1.85  ay 0.48  az 0.17
+ax -0.91  ay 0.09  az 1.73
+ax 1.72  ay -0.05  az 0.40
+ax -1.57  ay -0.16  az 0.99
+ax -1.23  ay -0.02  az -0.31
+ax 1.35  ay 0.08  az 3.42
+min ax -2.63  ay -0.43  az -0.31
+max ax 2.49  ay 0.71  az 3.42
+avg ax -0.05  ay 0.11  az 1.10
+ax 0.60  ay -0.06  az 1.01
+ax -0.79  ay -0.71  az -0.49
+ax 1.86  ay 0.65  az 1.36
+ax -1.34  ay 0.06  az 2.27
+ax -0.96  ay -0.12  az -1.26
+ax 0.21  ay -0.75  az 0.00
+ax 1.18  ay 0.73  az 3.02
+ax -1.92  ay 0.38  az 2.93
+ax 1.32  ay -0.45  az -0.62
+ax 2.34  ay -0.76  az 1.35
+min ax -1.92  ay -0.76  az -0.62
+max ax 2.34  ay 0.73  az 2.93
+avg ax 0.25  ay -0.10  az 0.96
+ax -2.48  ay 0.58  az 1.63
+ax -1.96  ay 0.06  az 1.54
+ax 1.91  ay -0.42  az 0.28
+ax -0.58  ay -0.01  az 1.07
+ax -1.42  ay 0.09  az -0.25
+ax 1.68  ay 0.03  az 2.11
+ax 1.36  ay 0.18  az 1.52
+ax -1.30  ay -0.23  az 0.53
+ax 0.78  ay 0.47  az 0.88
+ax 0.55  ay 0.00  az 3.03
+min ax -2.48  ay -0.42  az -0.25
+max ax 1.91  ay 0.58  az 3.03
+avg ax -0.15  ay 0.08  az 1.23
+ax -1.24  ay -0.38  az -0.14
+ax -0.30  ay -0.48  az -0.80
+ax 0.60  ay 0.70  az 3.61
+ax -1.05  ay 0.74  az 2.59
+ax -1.53  ay 0.12  az 0.26
+ax 2.08  ay -0.75  az -0.32
+ax 2.35  ay 0.18  az 1.94
+ax -1.84  ay 0.19  az 1.14
+ax 0.68  ay -0.59  az 0.07
+ax 1.37  ay -0.15  az 1.18
+min ax -1.84  ay -0.75  az -0.14
+max ax 2.35  ay 0.74  az 1.18
+avg ax 0.11  ay -0.04  az 0.95
+ax -1.61  ay 0.68  az 1.09
+ax -1.72  ay 0.15  az 0.97
+ax 0.95  ay 0.19  az 1.83
+ax 0.22  ay -0.34  az 0.38
+ax -0.90  ay 0.19  az 0.49
+ax 1.12  ay 0.05  az 1.86
+ax -1.19  ay -0.24  az 0.39
+ax -0.02  ay -0.23  az -0.54
+ax 0.47  ay -0.41  az -0.28
+ax 0.33  ay 0.57  az 3.42
+min ax -1.72  ay -0.41  az -0.54
+max ax 1.12  ay 0.68  az 3.42
+avg ax -0.24  ay 0.06  az 0.96
+ax -1.64  ay 0.16  az 0.74
+ax 0.91  ay -0.87  az 0.08
+ax 1.09  ay -0.00  az 2.03
+ax -1.64  ay 1.04  az 2.79
+ax -1.64  ay -0.16  az -1.17
+ax 1.72  ay -1.11  az -0.11
+ax -0.61  ay 0.69  az 2.55
+ax -0.93  ay 0.02  az 2.25
+ax 0.98  ay -0.97  az 1.11
+ax 1.40  ay 0.15  az 1.81
+min ax -1.64  ay -1.11  az -1.17
+max ax 1.72  ay 1.04  az 2.55
+avg ax -0.04  ay -0.10  az 1.21
+ax -0.60  ay -0.25  az 1.61
+ax -1.25  ay 0.49  az 0.79
+ax 0.95  ay -0.22  az 1.59
+ax -0.73  ay 0.25  az -0.15
+ax -0.45  ay -0.38  az 0.01
+ax 0.89  ay 0.16  az 1.99
+ax 0.83  ay 0.14  az 2.63
+ax -0.42  ay -0.28  az -0.85
+ax 0.85  ay 0.01  az 1.32
+ax 0.03  ay 0.24  az 2.06
+min ax -1.25  ay -0.38  az -0.85
+max ax 0.95  ay 0.49  az 2.63
+avg ax 0.01  ay 0.02  az 1.10
+ax -0.85  ay -0.36  az -0.41
+ax -0.19  ay -0.24  az -1.32
+ax -0.14  ay 0.81  az 2.67
+ax -0.21  ay 0.95  az 2.68
+ax -0.38  ay -0.33  az -1.79
+ax 1.28  ay -1.29  az -0.14
+ax 1.45  ay -0.07  az 2.83
+ax -1.47  ay 0.93  az 2.57
+ax -1.14  ay -0.22  az -1.55
+ax 2.02  ay 0.14  az 1.49
+min ax -1.47  ay -1.29  az -1.79
+max ax 2.02  ay 0.95  az 2.57
+avg ax 0.04  ay 0.03  az 0.70
+ax -1.52  ay 1.06  az 2.05
+ax -1.06  ay 0.30  az -0.76
+ax 1.14  ay -0.87  az 0.35
+ax 1.30  ay 0.06  az 2.04
+ax -0.51  ay -0.27  az 1.83
+ax -1.12  ay 0.33  az 0.58
+ax 1.37  ay -0.07  az 1.75
+ax -0.56  ay 0.31  az 0.35
+ax -0.62  ay -0.21  az 0.56
+ax 1.04  ay 0.02  az 1.83
+min ax -1.52  ay -0.87  az 0.35
+max ax 1.37  ay 1.06  az 2.05
+avg ax -0.05  ay 0.06  az 1.06
+ax 1.30  ay -0.02  az 1.94
+ax -0.68  ay -0.24  az -0.40
+ax -0.43  ay 0.23  az 1.42
+ax 0.99  ay 0.30  az 2.49
+ax -1.12  ay -0.21  az 0.28
+ax -0.56  ay -0.22  az -0.90
+ax 0.04  ay 0.10  az 2.55
+ax 0.05  ay 0.91  az 2.75
+ax -0.45  ay -0.39  az -0.96
+ax 1.70  ay -0.57  az 0.80
+min ax -1.12  ay -0.57  az 1.42
+max ax 1.70  ay 0.91  az 2.55
+avg ax 0.08  ay -0.01  az 1.00
+ax -0.13  ay 1.20  az 2.90
+ax -0.51  ay -0.61  az 0.21
+ax -0.78  ay -0.40  az -1.09
+ax 0.42  ay 0.53  az 3.61
+ax -1.24  ay 0.95  az 2.40
+ax -0.83  ay -0.44  az -1.36
+ax 1.66  ay -1.23  az -0.97
+ax -1.83  ay 1.30  az 2.67
+ax -1.20  ay 0.24  az 2.97
+ax -0.59  ay -0.18  az -0.86
+min ax -1.83  ay -1.23  az -0.86
+max ax 1.66  ay 1.30  az 2.97
+avg ax -0.50  ay 0.13  az 1.05
+ax 1.54  ay -0.05  az 2.13
+ax -1.28  ay 0.74  az 1.27
+ax -0.92  ay 0.49  az -0.25
+ax 0.73  ay -0.72  az 0.23
+ax -0.38  ay 0.68  az 0.53
+ax -0.42  ay -0.25  az 1.79
+ax -1.29  ay 0.42  az 0.40
+ax 1.28  ay -0.00  az 1.97
+ax -0.18  ay 0.31  az 0.39
+ax -1.39  ay 0.40  az 0.86
+min ax -1.39  ay -0.72  az -0.25
+max ax 1.54  ay 0.74  az 2.13
+avg ax -0.23  ay 0.20  az 0.93
+ax 0.80  ay -0.11  az 1.72
+ax -0.23  ay 0.01  az 0.06
+ax -0.63  ay -0.21  az 0.04
+ax -1.03  ay 0.20  az 0.83
+ax 0.78  ay 0.23  az 2.58
+ax -0.44  ay -0.12  az 0.07
+ax -0.34  ay 0.19  az 0.71
+ax 0.79  ay 0.05  az 2.08
+ax 0.49  ay 0.37  az 3.22
+ax -0.25  ay -0.19  az -0.58
+min ax -1.03  ay -0.19  az 0.71
+max ax 0.80  ay 0.37  az 2.08
+avg ax -0.00  ay 0.04  az 1.07
+ax 0.59  ay 0.01  az 0.91
+ax 0.15  ay 0.68  az 3.41
+ax -0.93  ay -0.25  az -0.61
+ax 1.20  ay -0.50  az 1.30
+ax -0.53  ay 0.49  az 2.37
+ax 0.11  ay 0.93  az 3.36
+ax -0.02  ay -0.23  az -1.34
+ax 0.83  ay -1.17  az 1.02
+ax -0.27  ay 0.68  az 2.39
+ax -0.41  ay 1.02  az 1.53
+min ax -0.93  ay -1.17  az -1.34
+max ax 1.20  ay 1.02  az 2.39
+avg ax 0.07  ay 0.17  az 1.43
+ax 0.92  ay -1.74  az 0.39
+ax 1.19  ay -0.06  az 2.32
+ax -1.03  ay 1.03  az 2.31
+ax -0.50  ay -0.09  az -2.08
+ax 1.15  ay -1.43  az 0.02
+ax -0.47  ay 0.95  az 1.59
+ax -1.14  ay 0.15  az 3.89
+ax 0.40  ay -1.27  az 0.91
+ax 1.35  ay 0.13  az 1.33
+ax 0.56  ay 0.30  az 0.52
+min ax -1.14  ay -1.74  az -2.08
+max ax 1.35  ay 1.03  az 3.89
+avg ax 0.24  ay -0.20  az 1.12
+ax -1.31  ay 0.79  az -0.98
+ax -0.31  ay -0.80  az 1.93
+ax 0.99  ay -0.01  az 0.91
+ax -0.70  ay -0.04  az 1.98
+ax -0.05  ay -0.48  az 2.47
+ax 1.06  ay 0.25  az 0.85
+ax 0.95  ay -0.18  az 0.99
+ax -1.40  ay 0.42  az -0.19
+ax -0.02  ay -0.07  az 2.77
+ax 0.90  ay -0.30  az 0.83
+min ax -1.40  ay -0.80  az -0.98
+max ax 1.06  ay 0.79  az 2.77
+avg ax 0.01  ay -0.04  az 1.16
+ax -0.71  ay -0.18  az 0.40
+ax 0.03  ay 0.00  az 3.06
+ax 0.50  ay 0.54  az 1.94
+ax 0.84  ay -0.34  az 0.48
+ax -0.60  ay 0.21  az -0.82
+ax -0.00  ay -0.00  az 3.21
+ax 0.54  ay -0.26  az -0.28
+ax -0.15  ay -0.48  az 0.60
+ax -0.37  ay 0.19  az -1.09
+ax -0.07  ay 0.59  az 3.58
+min ax -0.71  ay -0.48  az -1.09
+max ax 0.84  ay 0.59  az 3.21
+avg ax -0.00  ay 0.03  az 1.11
+ax 0.16  ay -0.04  az -1.06
+ax -0.31  ay -0.16  az -0.68
+ax -0.18  ay 0.46  az 2.55
+ax 0.21  ay 0.23  az -0.87
+ax 0.36  ay -0.37  az -0.21
+ax -0.05  ay -1.21  az 0.07
+ax -0.56  ay 0.10  az 4.40
+ax -0.23  ay 1.83  az 0.94
+ax 0.57  ay -1.36  az 0.96
+ax 0.40  ay -0.81  az -0.05
+min ax -0.56  ay -1.36  az -1.06
+max ax 0.57  ay 1.83  az 4.40
+avg ax 0.04  ay -0.13  az 0.60
+ax -0.67  ay 1.38  az 3.36
+ax -0.70  ay 0.34  az -2.03
+ax 0.44  ay -1.21  az 0.85
+ax 0.79  ay 0.08  az 2.79
+ax -0.10  ay 0.62  az 4.36
+ax -0.74  ay -1.24  az 1.61
+ax 0.93  ay -0.16  az -1.05
+ax -0.26  ay 0.99  az 3.73
+ax -0.95  ay 0.42  az -0.43
+ax -0.90  ay -0.52  az 2.29
+min ax -0.95  ay -1.21  az -1.05
+max ax 0.93  ay 1.38  az 4.36
+avg ax -0.22  ay 0.07  az 1.55
+ax 1.11  ay -0.50  az 2.01
+ax 0.12  ay 0.83  az 2.23
+ax -0.63  ay -0.52  az 2.14
+ax 0.17  ay 0.12  az -0.82
+ax 0.19  ay 0.81  az 0.74
+ax -0.92  ay 0.02  az 0.57
+ax -0.73  ay -0.46  az 1.64
+ax 1.11  ay -0.21  az 2.69
+ax 0.22  ay 0.76  az 0.27
+ax -0.92  ay -0.37  az 1.20
+min ax -0.92  ay -0.50  az -0.82
+max ax 1.11  ay 0.83  az 2.14
+avg ax -0.03  ay 0.05  az 1.27
+ax 0.03  ay 0.23  az 0.70
+ax 0.48  ay 0.62  az 0.13
+ax -0.51  ay -0.29  az -0.13
+ax -0.60  ay -0.61  az 0.90
+ax 0.63  ay 0.13  az 3.86
+ax 0.80  ay 0.72  az -0.12
+ax -0.47  ay -0.91  az 0.76
+ax -0.54  ay 0.40  az 1.10
+ax 1.19  ay 0.71  az 0.12
+ax -0.13  ay -0.10  az -1.24
+min ax -0.60  ay -0.91  az -1.24
+max ax 1.19  ay 0.40  az 0.90
+avg ax 0.09  ay 0.09  az 0.61
+ax -0.71  ay -1.09  az 0.80
+ax 0.28  ay 0.27  az 4.23
+ax 1.42  ay 0.81  az 0.95
+ax -1.00  ay -1.36  az 0.79
+ax -1.12  ay 0.25  az 1.43
+ax 1.23  ay 1.15  az 1.99
+ax 0.69  ay 0.05  az -2.41
+ax -0.51  ay -1.60  az 0.39
+ax -0.29  ay 0.41  az 3.33
+ax 0.64  ay 1.39  az 3.13
+min ax -1.12  ay -1.60  az -2.41
+max ax 1.42  ay 1.39  az 3.33
+avg ax 0.06  ay 0.03  az 1.46
+ax -0.03  ay -1.67  az 0.28
+ax -0.45  ay -0.04  az 0.89
+ax -0.06  ay 1.35  az 4.28
+ax -0.04  ay 0.02  az -2.88
+ax 0.91  ay -1.23  az 0.53
+ax -0.51  ay 0.33  az 3.50
+ax -1.11  ay 1.50  az 4.22
+ax 1.48  ay -0.91  az 0.82
+ax 0.36  ay -0.96  az -2.13
+ax 0.20  ay 0.59  az 3.62
+min ax -1.11  ay -1.67  az -2.88
+max ax 1.48  ay 1.50  az 3.62
+avg ax 0.07  ay -0.10  az 1.31
+ax -0.51  ay 0.37  az 1.35
+ax 1.10  ay -0.82  az 0.01
+ax 1.84  ay 0.18  az 1.89
+ax -2.66  ay 0.90  az 3.26
+ax -1.40  ay -0.11  az 0.19
+ax 1.64  ay -0.88  az -0.89
+ax 0.81  ay -0.63  az 0.26
+ax -2.27  ay 1.31  az 2.39
+ax -1.36  ay -0.13  az 2.48
+ax 2.03  ay -0.50  az 0.60
+min ax -2.66  ay -0.88  az 0.19
+max ax 2.03  ay 1.31  az 2.48
+avg ax -0.08  ay -0.03  az 1.15
+ax 1.28  ay 0.23  az 0.08
+ax -1.87  ay 0.24  az 1.51
+ax -0.43  ay 0.22  az 1.01
+ax 1.97  ay -0.64  az 0.30
+ax -0.50  ay 0.03  az 1.52
+ax -1.57  ay 0.47  az 1.26
+ax 0.99  ay -0.07  az 0.44
+ax 1.24  ay -0.04  az 1.01
+ax -0.74  ay 0.09  az 0.96
+ax -0.77  ay 0.11  az 1.53
+min ax -1.87  ay -0.64  az 0.08
+max ax 1.97  ay 0.47  az 1.53
+avg ax -0.04  ay 0.06  az 0.96
+ax 0.67  ay 0.40  az 0.69
+ax -0.72  ay -0.28  az 1.36
+ax -0.15  ay -0.21  az 0.40
+ax -0.54  ay 0.45  az 1.82
+ax 1.56  ay 0.43  az 1.16
+ax -0.36  ay -0.36  az -0.04
+ax 0.32  ay 0.05  az -0.46
+ax -0.83  ay 0.42  az 3.40
+ax 0.24  ay -0.41  az 1.72
+ax -0.52  ay -0.58  az 1.00
+min ax -0.83  ay -0.58  az -0.46
+max ax 1.56  ay 0.45  az 3.40
+avg ax -0.03  ay -0.01  az 1.11
+ax -0.43  ay 0.46  az 3.29
+ax 0.65  ay 0.21  az 1.77
+ax 0.13  ay -0.63  az 0.92
+ax -1.17  ay -0.13  az -0.68
+ax -0.62  ay 0.95  az 1.96
+ax 0.63  ay 0.07  az 1.70
+ax -0.27  ay -0.40  az -0.32
+ax -0.21  ay 0.73  az 1.31
+ax 1.59  ay 0.05  az 2.20
+ax 0.92  ay 0.34  az 2.43
+min ax -1.17  ay -0.63  az -0.32
+max ax 1.59  ay 0.95  az 3.29
+avg ax 0.12  ay 0.16  az 1.46
+ax -0.71  ay -0.22  az -1.02
+ax 1.44  ay 0.22  az 0.52
+ax 0.02  ay 0.82  az 2.06
+ax -2.45  ay -0.32  az -0.04
+ax 1.75  ay -0.35  az -0.89
+ax 1.47  ay 0.44  az 3.54
+ax -0.69  ay 0.71  az 3.54
+ax -0.27  ay -0.69  az -0.64
+ax 1.49  ay -0.78  az -0.59
+ax -2.44  ay 0.65  az 4.83
+min ax -2.45  ay -0.78  az -1.02
+max ax 1.75  ay 0.82  az 4.83
+avg ax -0.04  ay 0.05  az 1.13
+ax -1.61  ay 0.45  az 0.93
+ax 1.63  ay -0.62  az 1.24
+ax 1.24  ay 0.23  az 0.60
+ax -1.36  ay 1.08  az 1.79
+ax 0.72  ay -0.28  az 0.44
+ax 1.18  ay -0.09  az 0.24
+ax -0.40  ay 0.57  az 0.40
+ax -0.11  ay 0.01  az 0.74
+ax -0.15  ay 0.18  az 0.96
+ax -0.62  ay 0.40  az 1.52
+min ax -1.61  ay -0.62  az 0.24
+max ax 1.63  ay 1.08  az 1.52
+avg ax 0.05  ay 0.19  az 0.88
+ax 0.75  ay -0.30  az 0.99
+ax -0.95  ay -0.19  az 1.23
+ax -1.79  ay 0.28  az 3.16
+ax 2.01  ay -0.45  az -0.08
+ax 0.97  ay -0.74  az 0.43
+ax -2.16  ay 0.44  az 2.96
+ax 0.31  ay 0.28  az 2.46
+ax 2.55  ay -0.30  az -1.18
+ax -1.57  ay 0.48  az 1.82
+ax -1.36  ay 0.92  az 1.68
+min ax -2.16  ay -0.74  az -1.18
+max ax 2.55  ay 0.92  az 2.46
+avg ax -0.12  ay 0.04  az 1.35
+ax 2.73  ay -0.88  az -0.35
+ax 0.26  ay -0.20  az -0.62
+ax -0.98  ay 0.55  az 1.53
+ax 1.64  ay 0.63  az 1.84
+ax 1.88  ay -0.92  az 0.56
+ax -2.45  ay 0.15  az 0.52
+ax 0.20  ay 0.31  az 2.49
+ax 0.51  ay -0.64  az 0.67
+ax -1.50  ay -0.29  az -0.84
+ax -1.39  ay -0.21  az -0.22
+min ax -2.45  ay -0.92  az -0.84
+max ax 2.73  ay 0.63  az 2.49
+avg ax 0.09  ay -0.15  az 0.56
+ax 1.39  ay 0.72  az 2.34
+ax -0.93  ay -0.31  az 1.31
+ax 0.11  ay -0.64  az -1.09
+ax 3.14  ay 0.76  az 2.77
+ax -2.24  ay 0.08  az 1.45
+ax -1.26  ay -0.51  az -0.46
+ax 1.47  ay -0.60  az -0.28
+ax -0.81  ay 0.37  az 3.49
+ax -1.87  ay 0.65  az 1.85
+ax 2.57  ay -0.46  az -0.77
+min ax -2.24  ay -0.64  az -0.77
+max ax 3.14  ay 0.72  az 3.49
+avg ax 0.16  ay 0.01  az 1.06
+ax 1.18  ay -0.31  az 1.03
+ax -1.40  ay 0.65  az 1.23
+ax 0.45  ay 0.30  az 1.52
+ax 0.89  ay -0.55  az 0.27
+ax -0.56  ay -0.04  az 1.32
+ax 0.83  ay 0.10  az 2.51
+ax -1.25  ay -0.42  az 0.76
+ax -1.64  ay -0.17  az 1.81
+ax 2.38  ay 0.08  az 1.18
+ax -0.90  ay -0.22  az 1.33
+min ax -1.64  ay -0.55  az 0.76
+max ax 2.38  ay 0.65  az 2.51
+avg ax -0.00  ay -0.06  az 1.30
+ax -2.95  ay -0.03  az 0.31
+ax 2.73  ay -0.01  az 1.91
+ax 1.19  ay -0.02  az 0.35
+ax -2.70  ay -0.03  az 2.12
+ax 0.17  ay 0.68  az 2.59
+ax 1.38  ay -0.50  az -0.06
+ax -2.45  ay -0.73  az -0.24
+ax -2.00  ay 0.49  az 2.01
+ax 0.99  ay 0.43  az 1.90
+ax -0.36  ay -0.66  az -1.42
+min ax -2.95  ay -0.73  az -1.42
+max ax 2.73  ay 0.68  az 2.12
+avg ax -0.40  ay -0.04  az 0.95
+ax -2.15  ay 0.73  az 5.11
+ax 1.00  ay 0.82  az 1.73
+ax -1.18  ay -1.46  az 1.06
+ax -0.24  ay -0.26  az -1.80
+ax 0.02  ay 0.29  az 2.60
+ax 0.96  ay 1.21  az -0.29
+ax -0.53  ay -1.17  az 0.09
+ax 0.51  ay -0.12  az 0.10
+ax -0.20  ay 0.40  az 4.59
+ax -0.14  ay -1.06  az -0.62
+min ax -2.15  ay -1.46  az -1.80
+max ax 1.00  ay 1.21  az 5.11
+avg ax -0.19  ay -0.06  az 1.26
+ax -0.32  ay -0.58  az 0.67
+ax -0.06  ay 0.02  az -1.08
+ax 0.45  ay 1.02  az 1.91
+ax 0.04  ay -0.86  az -0.37
+ax -0.33  ay 0.38  az -1.24
+ax -0.32  ay 0.45  az 3.76
+ax -0.54  ay -0.16  az -0.09
+ax 0.23  ay -0.63  az 1.07
+ax 0.41  ay 0.48  az -0.82
+ax -0.67  ay 0.07  az 2.83
+min ax -0.67  ay -0.86  az -1.08
+max ax 0.45  ay 0.48  az 2.83
+avg ax -0.11  ay 0.02  az 0.66
+ax -1.45  ay 0.16  az 0.65
+ax 0.33  ay 0.39  az 0.14
+ax 1.60  ay 0.07  az 0.52
+ax -1.56  ay 0.02  az 0.99
+ax -1.39  ay 0.00  az 2.07
+ax -0.01  ay 0.28  az 0.56
+ax 1.75  ay -0.52  az 1.24
+ax -1.06  ay -0.02  az 1.08
+ax -0.17  ay 0.63  az 1.56
+ax 0.66  ay 0.15  az 0.07
+min ax -1.56  ay -0.52  az 0.07
+max ax 1.75  ay 0.63  az 2.07
+avg ax -0.13  ay 0.12  az 0.89
+ax 0.10  ay -0.27  az 0.70
+ax -2.41  ay 0.48  az 2.13
+ax -0.39  ay 0.95  az 2.49
+ax 1.96  ay -1.17  az -0.73
+ax 1.05  ay -0.61  az -0.29
+ax -0.35  ay 0.93  az 2.12
+ax 0.04  ay 0.46  az 1.23
+ax 1.63  ay -1.42  az -0.76
+ax -2.28  ay 0.71  az 2.95
+ax -0.43  ay 0.72  az 1.68
+min ax -2.41  ay -1.42  az -0.29
+max ax 1.96  ay 0.95  az 2.95
+avg ax -0.11  ay 0.08  az 1.15
+ax 1.12  ay -1.16  az -0.51
+ax 0.15  ay -0.13  az -0.49
+ax 0.19  ay 0.79  az 2.05
+ax 1.04  ay 0.64  az 2.44
+ax 1.09  ay -0.83  az 0.54
+ax -2.24  ay -0.36  az 0.97
+ax 0.17  ay 0.87  az 1.98
+ax 1.26  ay -0.17  az 1.64
+ax -0.63  ay -0.49  az -1.17
+ax 0.84  ay 0.35  az 0.61
+min ax -2.24  ay -1.16  az -1.17
+max ax 1.26  ay 0.87  az 2.44
+avg ax 0.30  ay -0.05  az 0.80
+ax 1.28  ay 0.61  az 3.48
+ax 0.67  ay -0.04  az 1.53
+ax -1.82  ay -0.02  az 0.52
+ax 1.22  ay 0.15  az 0.23
+ax -0.13  ay -0.25  az 1.73
+ax -2.58  ay 0.21  az 0.25
+ax 1.89  ay 0.06  az 1.06
+ax 2.65  ay 0.23  az 0.56
+ax -0.53  ay -0.26  az 1.63
+ax -1.20  ay 0.07  az 0.89
+min ax -2.58  ay -0.26  az 0.56
+max ax 2.65  ay 0.61  az 3.48
+avg ax 0.15  ay 0.07  az 1.19
+ax 2.56  ay -0.08  az 2.27
+ax -0.87  ay -0.14  az 0.13
+ax -3.42  ay -0.26  az 1.58
+ax 2.87  ay 0.40  az 2.11
+ax 2.41  ay -0.20  az 0.60
+ax -1.94  ay -0.48  az -1.01
+ax -0.25  ay 0.70  az 3.60
+ax 1.73  ay 0.85  az 2.33
+ax -1.92  ay -0.59  az 0.25
+ax -1.58  ay -0.07  az -0.54
+min ax -3.42  ay -0.59  az -0.54
+max ax 2.87  ay 0.85  az 2.27
+avg ax -0.04  ay 0.02  az 1.13
+ax 0.37  ay 0.52  az 3.53
+ax 0.64  ay -0.62  az -1.18
+ax -0.61  ay -0.65  az 0.23
+ax 1.52  ay 1.22  az 1.75
+ax 0.32  ay 0.53  az 3.32
+ax -0.33  ay -0.54  az -1.42
+ax -0.99  ay -1.05  az 1.32
+ax 1.55  ay 1.24  az 1.88
+ax -0.85  ay 0.04  az 1.13
+ax -0.22  ay -0.48  az -2.24
+min ax -0.99  ay -0.62  az -2.24
+max ax 1.55  ay 0.53  az 3.53
+avg ax 0.14  ay 0.02  az 0.83
+ax 1.66  ay 1.23  az 0.91
+ax -0.15  ay 0.36  az 3.96
+ax -0.42  ay -0.63  az -1.86
+ax -0.48  ay -0.75  az 1.20
+ax 1.69  ay 1.11  az -0.31
+ax -0.06  ay -0.05  az 1.36
+ax -1.26  ay -0.67  az -0.35
+ax 1.54  ay 0.82  az -0.39
+ax 0.37  ay 0.36  az 3.64
+ax -2.14  ay -0.16  az 1.10
+min ax -2.14  ay -0.05  az -0.39
+max ax 1.69  ay 1.23  az 3.96
+avg ax 0.07  ay 0.16  az 0.93
+ax -0.49  ay -0.35  az 1.16
+ax 2.12  ay 0.61  az -0.05
+ax -0.39  ay 0.11  az 0.28
+ax -2.49  ay -0.22  az 1.53
+ax 1.87  ay 0.48  az 0.38
+ax 1.96  ay -0.10  az 2.24
+ax -2.49  ay -0.52  az 1.63
+ax -1.45  ay 0.25  az 1.19
+ax 1.65  ay 0.43  az 1.71
+ax 0.15  ay 0.08  az -1.59
+min ax -2.49  ay -0.52  az -1.59
+max ax 2.12  ay 0.48  az 2.24
+avg ax 0.05  ay 0.08  az 0.85
+ax -2.30  ay -0.80  az 1.46
+ax 1.26  ay 0.45  az 2.66
+ax 2.27  ay 0.26  az 1.68
+ax -2.08  ay -1.14  az 1.25
+ax -1.33  ay 0.31  az 1.29
+ax 0.58  ay 0.45  az 3.37
+ax 0.47  ay 0.07  az -1.76
+ax -1.54  ay -1.44  az 0.75
+ax -0.00  ay 0.46  az 3.94
+ax 1.77  ay 1.15  az 1.24
+min ax -2.30  ay -1.44  az -1.76
+max ax 2.27  ay 1.15  az 1.46
+avg ax -0.09  ay -0.02  az 1.59
+ax -1.07  ay -1.49  az 0.54
+ax -0.96  ay -0.01  az 1.17
+ax -0.41  ay 0.39  az 4.25
+ax 0.70  ay -0.20  az -1.49
+ax -0.37  ay -1.46  az 0.26
+ax -0.60  ay 0.23  az 4.54
+ax 0.48  ay 1.72  az 1.09
+ax 0.64  ay -0.39  az -1.25
+ax -0.52  ay -0.57  az 0.47
+ax -0.31  ay 0.21  az 4.53
+min ax -1.07  ay -1.49  az -1.49
+max ax 0.70  ay 1.72  az 4.53
+avg ax -0.24  ay -0.16  az 1.41
+ax 0.21  ay -0.31  az -0.87
+ax 0.53  ay -0.79  az -0.15
+ax 0.76  ay 0.26  az 4.15
+ax -1.23  ay 1.73  az 2.07
+ax -1.06  ay 0.40  az 0.68
+ax 1.15  ay -1.43  az -1.54
+ax 2.18  ay 0.08  az 2.69
+ax -1.22  ay 0.70  az 2.15
+ax -0.82  ay -0.52  az -0.65
+ax 2.29  ay 0.02  az 1.42
+min ax -1.23  ay -1.43  az -0.87
+max ax 2.29  ay 1.73  az 2.15
+avg ax 0.28  ay 0.02  az 1.00
+ax -2.01  ay 1.03  az 3.20
+ax -0.67  ay 0.12  az 1.79
+ax 1.20  ay -0.88  az -0.19
+ax 1.62  ay 0.20  az 1.34
+ax -1.25  ay 0.37  az 0.66
+ax -1.97  ay -0.02  az 1.31
+ax 1.84  ay -0.02  az 1.92
+ax 0.70  ay 0.10  az 1.40
+ax -1.68  ay 0.33  az 0.35
+ax 0.73  ay 0.04  az 0.61
+min ax -2.01  ay -0.88  az 0.35
+max ax 1.84  ay 1.03  az 3.20
+avg ax -0.15  ay 0.13  az 1.24
+turn off
+ax 2.41  ay 0.08  az 2.29
+ax -1.88  ay 0.10  az -0.35
+ax -1.83  ay -0.19  az 0.62
+ax 1.79  ay 0.26  az 2.59
+ax 2.33  ay 0.22  az 2.54
+ax 1.09  ay -0.01  az 1.77
+ax -0.81  ay -0.32  az 0.12
+ax -1.47  ay -0.36  az -0.36
+ax -1.72  ay -0.24  az -0.66
+ax -1.78  ay -0.21  az -0.54
+min ax -1.88  ay -0.36  az -0.66
+max ax 2.41  ay 0.26  az 2.54
+avg ax -0.19  ay -0.07  az 0.80
+ax -1.62  ay -0.18  az -0.28
+ax -1.29  ay -0.11  az -0.08
+ax -1.13  ay -0.13  az 0.48
+ax -0.79  ay -0.02  az 0.47
+ax -0.73  ay 0.07  az 0.90
+ax 0.09  ay 0.14  az 1.95
+ax 0.28  ay 0.22  az 1.41
+ax 0.27  ay -0.06  az 1.31
+ax 0.03  ay -0.03  az 0.77
+ax -0.04  ay 0.01  az 0.77
+min ax -1.62  ay -0.18  az -0.28
+max ax 0.28  ay 0.01  az -0.28
+avg ax -0.49  ay -0.01  az 0.77
+ax -0.00  ay 0.11  az 1.32
+ax 0.12  ay -0.05  az 1.22
+ax -0.03  ay 0.02  az 0.75
+ax -0.16  ay 0.21  az 1.18
+ax 0.23  ay -0.09  az 1.12
+ax -0.15  ay 0.02  az 0.92
+ax -0.05  ay 0.14  az 1.09
+ax 0.09  ay -0.05  az 1.03
+ax -0.15  ay 0.06  az 0.93
+ax 0.07  ay -0.01  az 1.12
+min ax -0.16  ay -0.09  az 0.92
+max ax 0.23  ay 0.21  az 1.32
+avg ax -0.00  ay 0.04  az 1.07
+ax -0.00  ay 0.03  az 1.01
+ax 0.09  ay -0.00  az 1.08
+ax -0.06  ay 0.02  az 1.04
+ax -0.06  ay 0.10  az 1.10
+ax -0.04  ay 0.02  az 1.00
+ax -0.01  ay 0.07  az 1.09
+ax 0.09  ay 0.03  az 1.04
+ax 0.06  ay 0.04  az 1.06
+ax -0.09  ay 0.04  az 1.11
+ax 0.11  ay 0.04  az 1.04
+min ax -0.09  ay -0.00  az 1.00
+max ax 0.11  ay 0.10  az 1.11
+avg ax 0.01  ay 0.04  az 1.06
+ax -0.03  ay 0.05  az 1.07
+ax -0.02  ay 0.05  az 1.08
+ax 0.06  ay 0.03  az 1.10
+ax -0.02  ay 0.05  az 1.10
+ax -0.03  ay 0.01  az 1.03
+ax 0.02  ay 0.06  az 1.08
+ax -0.04  ay 0.06  az 1.06
+ax -0.03  ay 0.01  az 1.10
+ax 0.02  ay 0.06  az 1.15
+ax -0.01  ay 0.03  az 1.05
+min ax -0.04  ay 0.01  az 1.05
+max ax 0.06  ay 0.06  az 1.15
+avg ax -0.01  ay 0.04  az 1.08
+ax 0.02  ay 0.02  az 1.06
+ax 0.03  ay 0.06  az 1.13
+ax 0.00  ay 0.02  az 1.03
+ax -0.01  ay 0.02  az 1.02
+ax -0.03  ay 0.05  az 1.11
+ax -0.02  ay 0.05  az 1.09
+ax 0.02  ay 0.02  az 1.02
+ax 0.04  ay 0.03  az 1.08
+ax 0.00  ay 0.05  az 1.13
+ax -0.02  ay 0.03  az 1.07
+min ax -0.03  ay 0.02  az 1.02
+max ax 0.04  ay 0.05  az 1.09
+avg ax 0.00  ay 0.04  az 1.07
+ax 0.03  ay 0.05  az 1.12
+ax 0.02  ay 0.02  az 1.06
+ax -0.02  ay 0.02  az 1.03
+ax 0.03  ay 0.04  az 1.08
+ax -0.02  ay 0.03  az 1.06
+ax 0.01  ay 0.04  az 1.12
+ax -0.02  ay 0.03  az 1.06
+ax -0.05  ay 0.04  az 1.09
+ax -0.04  ay 0.04  az 1.05
+ax -0.04  ay 0.03  az 1.07
+min ax -0.05  ay 0.03  az 1.05
+max ax 0.03  ay 0.05  az 1.12
+avg ax -0.01  ay 0.03  az 1.07
+ax -0.02  ay 0.04  az 1.06
+ax 0.00  ay 0.03  az 1.08
+ax 0.04  ay 0.02  az 1.07
+ax 0.02  ay 0.04  az 1.11
+ax -0.01  ay 0.04  az 1.09
+ax 0.00  ay 0.04  az 1.12
+ax 0.02  ay 0.04  az 1.11
+ax -0.00  ay 0.04  az 1.11
+ax -0.00  ay 0.03  az 1.03
+ax -0.02  ay 0.03  az 1.08
+min ax -0.02  ay 0.02  az 1.03
+max ax 0.04  ay 0.04  az 1.12
+avg ax 0.00  ay 0.04  az 1.09
+ax -0.05  ay 0.03  az 1.04
+ax -0.02  ay 0.04  az 1.10
+ax -0.03  ay 0.04  az 1.04
+ax 0.00  ay 0.03  az 1.09
+ax 0.02  ay 0.03  az 1.04
+ax 0.03  ay 0.03  az 1.07
+ax -0.03  ay 0.03  az 1.02
+ax -0.04  ay 0.04  az 1.03
+ax 0.02  ay 0.03  az 1.06
+ax -0.03  ay 0.03  az 1.08
+min ax -0.05  ay 0.03  az 1.03
+max ax 0.03  ay 0.04  az 1.08
+avg ax -0.01  ay 0.03  az 1.06
+ax 0.03  ay 0.04  az 1.14
+ax 0.02  ay 0.04  az 1.02
+ax -0.02  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.07
+ax -0.02  ay 0.04  az 1.01
+ax -0.01  ay 0.03  az 1.09
+ax 0.03  ay 0.03  az 1.00
+ax -0.02  ay 0.03  az 1.14
+ax 0.00  ay 0.03  az 1.02
+ax 0.03  ay 0.03  az 1.03
+min ax -0.02  ay 0.03  az 1.00
+max ax 0.03  ay 0.04  az 1.14
+avg ax 0.00  ay 0.03  az 1.06
+ax 0.00  ay 0.04  az 1.10
+ax 0.01  ay 0.04  az 1.06
+ax 0.01  ay 0.04  az 1.13
+ax 0.00  ay 0.04  az 1.05
+ax -0.02  ay 0.03  az 1.10
+ax 0.01  ay 0.03  az 1.08
+ax 0.02  ay 0.04  az 1.03
+ax 0.00  ay 0.03  az 1.13
+ax 0.01  ay 0.03  az 1.07
+ax 0.00  ay 0.04  az 1.12
+min ax -0.02  ay 0.03  az 1.03
+max ax 0.02  ay 0.04  az 1.13
+avg ax 0.01  ay 0.04  az 1.09
+ax -0.02  ay 0.03  az 1.11
+ax -0.04  ay 0.04  az 1.03
+ax -0.00  ay 0.04  az 1.08
+ax 0.02  ay 0.04  az 1.07
+ax 0.01  ay 0.03  az 1.12
+ax -0.01  ay 0.04  az 1.10
+ax 0.00  ay 0.03  az 1.09
+ax -0.02  ay 0.03  az 1.10
+ax -0.03  ay 0.03  az 1.05
+ax -0.01  ay 0.03  az 1.09
+min ax -0.04  ay 0.03  az 1.05
+max ax 0.02  ay 0.04  az 1.12
+avg ax -0.01  ay 0.03  az 1.08
+ax -0.02  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.09
+ax -0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.06
+ax -0.03  ay 0.04  az 1.09
+ax -0.03  ay 0.04  az 1.09
+ax -0.01  ay 0.03  az 1.07
+ax -0.01  ay 0.04  az 1.08
+ax 0.01  ay 0.03  az 1.06
+ax -0.00  ay 0.04  az 1.08
+min ax -0.03  ay 0.03  az 1.06
+max ax 0.01  ay 0.04  az 1.08
+avg ax -0.01  ay 0.04  az 1.08
+ax 0.02  ay 0.03  az 1.06
+ax -0.01  ay 0.03  az 1.08
+ax 0.01  ay 0.03  az 1.08
+ax -0.02  ay 0.04  az 1.08
+ax -0.02  ay 0.04  az 1.09
+ax -0.01  ay 0.03  az 1.06
+ax -0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.07
+ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.09
+min ax -0.02  ay 0.03  az 1.06
+max ax 0.02  ay 0.04  az 1.09
+avg ax -0.01  ay 0.04  az 1.08
+ax 0.01  ay 0.03  az 1.06
+ax 0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.07
+ax -0.01  ay 0.03  az 1.09
+ax 0.01  ay 0.03  az 1.07
+ax 0.00  ay 0.04  az 1.07
+ax -0.01  ay 0.04  az 1.09
+ax -0.01  ay 0.04  az 1.07
+ax -0.01  ay 0.04  az 1.09
+ax -0.01  ay 0.03  az 1.08
+min ax -0.01  ay 0.03  az 1.06
+max ax 0.01  ay 0.04  az 1.09
+avg ax -0.00  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.06
+ax -0.00  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.07
+ax -0.01  ay 0.04  az 1.09
+ax -0.01  ay 0.04  az 1.07
+ax -0.01  ay 0.03  az 1.07
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax 0.00  ay 0.03  az 1.07
+ax -0.01  ay 0.04  az 1.08
+min ax -0.01  ay 0.03  az 1.06
+max ax 0.00  ay 0.04  az 1.09
+avg ax -0.01  ay 0.04  az 1.07
+ax -0.01  ay 0.03  az 1.07
+ax -0.00  ay 0.03  az 1.08
+ax -0.00  ay 0.03  az 1.07
+ax -0.00  ay 0.04  az 1.09
+ax -0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.09
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.08
+min ax -0.01  ay 0.03  az 1.07
+max ax -0.00  ay 0.04  az 1.09
+avg ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.09
+ax -0.01  ay 0.03  az 1.09
+ax -0.01  ay 0.03  az 1.07
+ax -0.01  ay 0.04  az 1.09
+ax -0.00  ay 0.04  az 1.07
+ax -0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.07
+ax -0.01  ay 0.03  az 1.09
+ax -0.01  ay 0.03  az 1.07
+min ax -0.01  ay 0.03  az 1.07
+max ax -0.00  ay 0.04  az 1.09
+avg ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.09
+ax -0.01  ay 0.03  az 1.07
+ax -0.01  ay 0.04  az 1.09
+ax -0.01  ay 0.04  az 1.07
+ax -0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.07
+ax -0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.07
+min ax -0.01  ay 0.03  az 1.07
+max ax -0.00  ay 0.04  az 1.09
+avg ax -0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.07
+ax -0.00  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.07
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.07
+ax -0.00  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.09
+ax -0.01  ay 0.04  az 1.07
+min ax -0.01  ay 0.03  az 1.07
+max ax -0.00  ay 0.04  az 1.09
+avg ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.07
+ax -0.01  ay 0.04  az 1.07
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.07
+ax -0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.03  az 1.07
+ax -0.00  ay 0.03  az 1.07
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.07
+min ax -0.01  ay 0.03  az 1.07
+max ax -0.00  ay 0.04  az 1.08
+avg ax -0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.03  az 1.09
+ax -0.01  ay 0.03  az 1.07
+ax -0.00  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.07
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.07
+ax -0.01  ay 0.04  az 1.07
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.07
+min ax -0.01  ay 0.03  az 1.07
+max ax -0.00  ay 0.04  az 1.09
+avg ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.07
+ax -0.01  ay 0.03  az 1.09
+ax -0.00  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.07
+ax -0.01  ay 0.04  az 1.09
+ax -0.01  ay 0.03  az 1.07
+ax -0.00  ay 0.04  az 1.09
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.08
+min ax -0.01  ay 0.03  az 1.07
+max ax -0.00  ay 0.04  az 1.08
+avg ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.07
+ax -0.00  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.07
+ax -0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.03  az 1.07
+ax -0.00  ay 0.04  az 1.08
+min ax -0.01  ay 0.03  az 1.07
+max ax 0.00  ay 0.04  az 1.08
+avg ax -0.00  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.09
+ax -0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.09
+ax -0.00  ay 0.03  az 1.07
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.09
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.09
+ax -0.01  ay 0.04  az 1.07
+ax -0.01  ay 0.04  az 1.08
+min ax -0.01  ay 0.03  az 1.07
+max ax -0.00  ay 0.04  az 1.09
+avg ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.07
+ax -0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.03  az 1.09
+ax -0.01  ay 0.03  az 1.07
+ax -0.00  ay 0.03  az 1.08
+ax 0.00  ay 0.03  az 1.07
+ax -0.00  ay 0.03  az 1.07
+ax -0.01  ay 0.03  az 1.09
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.08
+min ax -0.01  ay 0.03  az 1.07
+max ax 0.00  ay 0.04  az 1.09
+avg ax -0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.07
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.07
+ax -0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax 0.00  ay 0.04  az 1.07
+ax -0.00  ay 0.03  az 1.09
+min ax -0.01  ay 0.03  az 1.07
+max ax 0.00  ay 0.04  az 1.09
+avg ax -0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.07
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.07
+ax -0.00  ay 0.04  az 1.09
+ax -0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.09
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.08
+min ax -0.01  ay 0.03  az 1.07
+max ax -0.00  ay 0.04  az 1.09
+avg ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.09
+ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.03  az 1.09
+ax -0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.07
+ax -0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.09
+min ax -0.01  ay 0.03  az 1.07
+max ax -0.00  ay 0.04  az 1.09
+avg ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.07
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.09
+ax -0.01  ay 0.04  az 1.07
+ax -0.00  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.07
+ax -0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.08
+min ax -0.01  ay 0.03  az 1.07
+max ax -0.00  ay 0.04  az 1.08
+avg ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.07
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.09
+ax -0.00  ay 0.03  az 1.08
+ax -0.00  ay 0.03  az 1.09
+ax -0.00  ay 0.04  az 1.07
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.08
+min ax -0.01  ay 0.03  az 1.07
+max ax -0.00  ay 0.04  az 1.09
+avg ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.07
+ax -0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.07
+ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.03  az 1.08
+min ax -0.01  ay 0.03  az 1.07
+max ax -0.00  ay 0.04  az 1.08
+avg ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.07
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.07
+ax -0.01  ay 0.04  az 1.09
+ax -0.00  ay 0.04  az 1.08
+min ax -0.01  ay 0.03  az 1.07
+max ax -0.00  ay 0.04  az 1.09
+avg ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.03  az 1.09
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.03  az 1.09
+ax -0.01  ay 0.04  az 1.07
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.08
+min ax -0.01  ay 0.03  az 1.07
+max ax -0.00  ay 0.04  az 1.09
+avg ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.09
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.09
+ax -0.00  ay 0.04  az 1.08
+min ax -0.01  ay 0.03  az 1.08
+max ax -0.00  ay 0.04  az 1.08
+avg ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.09
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.03  az 1.09
+ax -0.00  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.09
+ax -0.00  ay 0.04  az 1.07
+min ax -0.01  ay 0.03  az 1.07
+max ax 0.00  ay 0.04  az 1.09
+avg ax -0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.03  az 1.07
+ax -0.01  ay 0.03  az 1.07
+ax -0.01  ay 0.04  az 1.07
+ax -0.00  ay 0.04  az 1.07
+min ax -0.01  ay 0.03  az 1.07
+max ax -0.00  ay 0.04  az 1.08
+avg ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.07
+ax -0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.07
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.07
+ax -0.00  ay 0.03  az 1.08
+min ax -0.01  ay 0.03  az 1.07
+max ax -0.00  ay 0.04  az 1.08
+avg ax -0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.03  az 1.08
+ax -0.00  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.09
+ax -0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.07
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+min ax -0.01  ay 0.03  az 1.07
+max ax -0.00  ay 0.04  az 1.08
+avg ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.07
+ax -0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.09
+min ax -0.01  ay 0.03  az 1.08
+max ax -0.00  ay 0.04  az 1.09
+avg ax -0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.03  az 1.07
+ax -0.01  ay 0.03  az 1.09
+ax -0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.07
+ax -0.00  ay 0.03  az 1.09
+ax -0.00  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.08
+min ax -0.01  ay 0.03  az 1.07
+max ax -0.00  ay 0.03  az 1.09
+avg ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.07
+ax -0.00  ay 0.03  az 1.09
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.09
+ax -0.00  ay 0.03  az 1.07
+ax -0.01  ay 0.04  az 1.08
+min ax -0.01  ay 0.03  az 1.07
+max ax -0.00  ay 0.04  az 1.08
+avg ax -0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.03  az 1.07
+ax -0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.07
+ax -0.01  ay 0.04  az 1.09
+ax -0.00  ay 0.04  az 1.07
+ax -0.00  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax 0.00  ay 0.04  az 1.08
+min ax -0.01  ay 0.03  az 1.07
+max ax 0.00  ay 0.04  az 1.09
+avg ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.07
+ax -0.00  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.07
+ax -0.01  ay 0.04  az 1.07
+ax -0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.03  az 1.07
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.07
+ax -0.01  ay 0.03  az 1.09
+min ax -0.01  ay 0.03  az 1.07
+max ax -0.00  ay 0.04  az 1.09
+avg ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.07
+ax -0.00  ay 0.03  az 1.10
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.07
+ax -0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.07
+ax -0.00  ay 0.03  az 1.09
+ax -0.00  ay 0.03  az 1.07
+ax -0.01  ay 0.03  az 1.09
+ax -0.01  ay 0.03  az 1.09
+min ax -0.01  ay 0.03  az 1.07
+max ax -0.00  ay 0.04  az 1.09
+avg ax -0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.07
+ax -0.01  ay 0.04  az 1.09
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.09
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.09
+ax -0.01  ay 0.03  az 1.07
+ax -0.01  ay 0.04  az 1.09
+ax -0.00  ay 0.04  az 1.09
+min ax -0.01  ay 0.03  az 1.07
+max ax -0.00  ay 0.04  az 1.09
+avg ax -0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.09
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax 0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.07
+ax -0.01  ay 0.04  az 1.09
+ax -0.00  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.03  az 1.09
+min ax -0.01  ay 0.03  az 1.07
+max ax 0.00  ay 0.04  az 1.09
+avg ax -0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.07
+ax -0.01  ay 0.03  az 1.09
+ax -0.01  ay 0.03  az 1.07
+ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.03  az 1.07
+ax -0.00  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.09
+ax -0.00  ay 0.03  az 1.07
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.07
+min ax -0.01  ay 0.03  az 1.07
+max ax -0.00  ay 0.04  az 1.08
+avg ax -0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.07
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.07
+ax -0.00  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.07
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.07
+ax -0.01  ay 0.04  az 1.07
+ax -0.01  ay 0.04  az 1.08
+min ax -0.01  ay 0.03  az 1.07
+max ax -0.00  ay 0.04  az 1.08
+avg ax -0.01  ay 0.04  az 1.07
+ax -0.01  ay 0.03  az 1.07
+ax -0.01  ay 0.04  az 1.09
+ax -0.01  ay 0.03  az 1.07
+ax -0.01  ay 0.04  az 1.09
+ax -0.01  ay 0.03  az 1.07
+ax -0.00  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.03  az 1.07
+ax -0.01  ay 0.04  az 1.09
+ax -0.01  ay 0.03  az 1.08
+min ax -0.01  ay 0.03  az 1.07
+max ax -0.00  ay 0.04  az 1.09
+avg ax -0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.03  az 1.09
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.07
+ax -0.01  ay 0.03  az 1.09
+ax -0.00  ay 0.04  az 1.07
+ax -0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.09
+ax -0.01  ay 0.03  az 1.07
+min ax -0.01  ay 0.03  az 1.07
+max ax -0.00  ay 0.04  az 1.09
+avg ax -0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.09
+ax -0.00  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax -0.01  ay 0.03  az 1.09
+ax -0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.03  az 1.09
+ax -0.00  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.09
+ax -0.00  ay 0.04  az 1.08
+min ax -0.01  ay 0.03  az 1.08
+max ax -0.00  ay 0.04  az 1.09
+avg ax -0.01  ay 0.03  az 1.08
+ax -0.01  ay 0.03  az 1.08
+ax -0.00  ay 0.04  az 1.07
+ax -0.00  ay 0.04  az 1.08
+ax -0.00  ay 0.03  az 1.08
+ax -0.01  ay 0.04  az 1.07
+ax 0.00  ay 0.04  az 1.08
+ax -0.01  ay 0.04  az 1.08
+ax -0.00  ay 0.03  az 1.08
+ax -0.00  ay 0.03  az 1.09
+ax -0.00  ay 0.03  az 1.07
+min ax -0.01  ay 0.03  az 1.07
+max ax 0.00  ay 0.04  az 1.09
+avg ax -0.01  ay 0.03  az 1.08

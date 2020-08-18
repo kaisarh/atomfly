@@ -12,6 +12,7 @@ double pitch, roll;
 double Calibrationbuff[3];
 double r_rand = 180 / PI;
 
+float last_accX = 0, last_accY = 0, last_accZ = 0;
 double last_pitch = 0, last_roll = 0;
 
 uint8_t mode = 0;
@@ -49,7 +50,7 @@ int pid_max_yaw = 400;                     //Maximum output of the PID-controlle
   #define SERIAL_PRINTF 
 #endif
 
-#define FLY_DURATION (10 * 1000)  // 10 secs
+#define FLY_DURATION (5 * 1000)  // 10 secs
 
 void setup()
 {
@@ -172,6 +173,8 @@ void calculate_pid()
   pid_output_yaw = 0;
 
   on_time = millis();
+
+  fly.getAccelData(&last_accX, &last_accY, &last_accZ);
 }
 
 //kalman filter test, tried to see if it reduces noise
@@ -244,17 +247,41 @@ void loop2()
 void loop()
 {
 
-#if 0 //average of 10 reads from accel
-    #define ACC_AVG (10)
+#if 1 //average reads from accel
+    #define ACC_AVG (20)
+
     double avgX = 0, avgY = 0, avgZ = 0;
     float accX, accY, accZ;
 
     for (int ix = 0; ix < ACC_AVG; ix++)
     {
       fly.getAccelData(&accX, &accY, &accZ);
+
+      //SERIAL_PRINTF("ax %.2f  ay %.2f  az %.2f\n", accX, accY, accZ);
+
+#if 0
+      float alpha = 0.02f;
+
+      if (abs(last_accX - accX) > 0.1f)
+          last_accX = accX = (alpha * accX ) + (1 - alpha) * last_accX;
+      else
+          last_accX = accX = (alpha * last_accX ) + (1 - alpha) * accX;
+      
+      if (abs(last_accY - accY) > 0.1f)
+          last_accY = accY = (alpha * accY ) + (1 - alpha) * last_accY;
+      else
+          last_accY = accY = (alpha * last_accY ) + (1 - alpha) * accY;
+
+      if (abs(last_accZ - accZ) > 0.1f)
+          last_accZ = accZ = (alpha * accZ ) + (1 - alpha) * last_accZ;
+      else
+          last_accZ = accZ = (alpha * last_accZ ) + (1 - alpha) * accZ;
+#endif
+
       avgX += accX;
       avgY += accY;
       avgZ += accZ;
+      // delayMicroseconds(10);
     }
 
     accX = avgX / ACC_AVG;
@@ -262,10 +289,15 @@ void loop()
     accZ = avgZ / ACC_AVG;
 #endif
 
-    float accX, accY, accZ;
-    fly.getAccelData(&accX, &accY, &accZ);
+    // float accX, accY, accZ;
+    // fly.getGyroData(&accX, &accY, &accZ);
 
-    //SERIAL_PRINTF("t %d\t ax %.2f\t ay %.2f\t az %.2f\n", millis(), accX, accY, accZ);
+    // SERIAL_PRINTF("t %d  gx %.2f  gy %.2f  gz %.2f  ", millis(), accX, accY, accZ);
+
+    // float accX, accY, accZ;
+    // fly.getAccelData(&accX, &accY, &accZ);
+
+    //SERIAL_PRINTF("ax %.2f  ay %.2f  az %.2f\n", accX, accY, accZ);
 
     if ((accX < 1) && (accX > -1))
     {
@@ -276,19 +308,24 @@ void loop()
         roll = atan(accY / accZ) * 57.295;
     }
 
-
 #if 1  // a simple filter
-    float alpha = 0.20;
-    last_pitch = pitch = (alpha * pitch ) + (1 - alpha) * last_pitch;
-    last_roll = roll = (alpha * roll ) + (1 - alpha) * last_roll;
+    float alpha = 0.25f;
+
+    if (abs(last_pitch - pitch) > 1.0f)
+        last_pitch = pitch = (alpha * pitch ) + (1 - alpha) * last_pitch;
+    else
+        last_pitch = pitch = (alpha * last_pitch ) + (1 - alpha) * pitch;
+
+    if (abs(last_roll - roll) > 1.0f)
+        last_roll = roll = (alpha * roll ) + (1 - alpha) * last_roll;
+    else
+        last_roll = roll = (alpha * last_roll ) + (1 - alpha) * roll;
 #endif
 
-    float arc = atan2(pitch, roll) * r_rand + 180;
-    float dist = sqrt(pitch * pitch + roll * roll);
 
     calculate_pid();
 
-    int throttle = 900;
+    int throttle = 600;
     int esc_A = throttle - pid_output_pitch - pid_output_roll + pid_output_yaw; //Calculate the pulse for esc 4 (front-left - CW) //A
     int esc_B = throttle + pid_output_pitch - pid_output_roll - pid_output_yaw; //Calculate the pulse for esc 1 (front-right - CCW) //B
     int esc_C = throttle - pid_output_pitch + pid_output_roll - pid_output_yaw; //Calculate the pulse for esc 3 (rear-left - CCW) //C
@@ -300,8 +337,8 @@ void loop()
     esc_C /= 10;
     esc_D /= 10;
 
-    //SERIAL_PRINTF("p %.2f\t r %.2f\t a %.2f\t d %.2f\t", pitch, roll, arc, dist);
-    //SERIAL_PRINTF("A %d  B %d  C %d  D %d", esc_A, esc_B, esc_C, esc_D);
+    // //SERIAL_PRINTF("p %.2f\t r %.2f\t a %.2f\t d %.2f\t", pitch, roll, arc, dist);
+    // //SERIAL_PRINTF("A %d  B %d  C %d  D %d", esc_A, esc_B, esc_C, esc_D);
 
     SERIAL_PRINTF("%.2f  r %.2f  ", pitch, roll);
     SERIAL_PRINTF("A %d  B %d  C %d  D %d\n", esc_A, esc_B, esc_C, esc_D);
@@ -324,10 +361,15 @@ void loop()
 
     if (mode == 1)
     {
-        fly.WritePWM(AtomFly::kMotor_A, 90);  //esc_A
-        fly.WritePWM(AtomFly::kMotor_B, 90);  //esc_B
-        fly.WritePWM(AtomFly::kMotor_C, 90);  //esc_C
-        fly.WritePWM(AtomFly::kMotor_D, 90);  //esc_D
+        // fly.WritePWM(AtomFly::kMotor_A, esc_A);
+        // fly.WritePWM(AtomFly::kMotor_B, esc_B);
+        // fly.WritePWM(AtomFly::kMotor_C, esc_C);
+        // fly.WritePWM(AtomFly::kMotor_D, esc_D);
+
+        fly.WritePWM(AtomFly::kMotor_A, 50);
+        fly.WritePWM(AtomFly::kMotor_B, 50);
+        fly.WritePWM(AtomFly::kMotor_C, 50);
+        fly.WritePWM(AtomFly::kMotor_D, 50);
     }
     else if (M5.Btn.wasPressed())
     {
@@ -339,6 +381,9 @@ void loop()
     }
 
 #if 0 //update LED based on TOF
+    // float arc = atan2(pitch, roll) * r_rand + 180;
+    // float dist = sqrt(pitch * pitch + roll * roll);
+
     //SERIAL_PRINTF("p %.2f\t r %.2f\t a %.2f\t v %.2f\n", pitch, roll, arc, val);
 
     // uint16_t tofData = fly.readTOF();
@@ -353,7 +398,7 @@ void loop()
     M5.update();
 
 #if SERIAL_DEBUG
-    //delay(10);
+    delay(10);
 #endif
 }
 
