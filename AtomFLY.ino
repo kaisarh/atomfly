@@ -6,17 +6,14 @@
 #include "AtomFly.h"
 
 CRGB led(0, 0, 0);
-CRGB HSVtoRGB(uint16_t h, uint16_t s, uint16_t v);
 
-double pitch, roll;
-double Calibrationbuff[3];
 double r_rand = 180 / PI;
 
-float last_accX = 0, last_accY = 0, last_accZ = 0;
+float pitch, roll, yaw;
 double last_pitch = 0, last_roll = 0;
 
 uint8_t mode = 0;
-uint32_t on_time, off_time = 0;
+uint32_t on_time = 0, off_time = 0;
 
 //PID calculations
 float pid_error_temp;
@@ -42,7 +39,7 @@ float pid_d_gain_yaw = 0.0;                //Gain setting for the pitch D-contro
 int pid_max_yaw = 400;                     //Maximum output of the PID-controller (+/-)
 
 
-#define SERIAL_DEBUG 1
+#define SERIAL_DEBUG 0
 
 #if SERIAL_DEBUG
   #define SERIAL_PRINTF Serial.printf
@@ -50,20 +47,16 @@ int pid_max_yaw = 400;                     //Maximum output of the PID-controlle
   #define SERIAL_PRINTF 
 #endif
 
-#define FLY_DURATION (5 * 1000)  // 10 secs
+#define FLY_DURATION (8 * 1000)
 
 void setup()
 {
     M5.begin(true, false, true);
 
-    Calibrationbuff[0] = 0;
-    Calibrationbuff[1] = 0;
-    Calibrationbuff[2] = 0;
-
     fly.begin();
     if ( fly.initFly() != 0)
     {
-        Serial.println("faild");
+        Serial.println("initFly() failed");
         led = CRGB(0,255,0);
         M5.dis.drawpix(0, led);
         while(1)
@@ -72,30 +65,8 @@ void setup()
         }
     }
 
-    Serial.println("OK");
+    Serial.println("initFly() ok");
     led = CRGB(255,0,0);
-    M5.dis.drawpix(0, led);
-    /*
-    for (int i = 0; i < 360; i++)
-    {
-        led = HSVtoRGB(i, 100, 100);
-        M5.dis.drawpix(0, led);
-
-        if (i % 10 == 0)
-        {
-            fly.getAttitude(&pitch, &roll);
-            Calibrationbuff[0] += pitch;
-            Calibrationbuff[1] += roll;
-        }
-        delay(5);
-    }
-    */
-    Calibrationbuff[0] = Calibrationbuff[0] / 36;
-    Calibrationbuff[1] = Calibrationbuff[1] / 36;
-
-    SERIAL_PRINTF("Calibration:%.2f,%.2f\n", Calibrationbuff[0], Calibrationbuff[1]);
-
-    led = HSVtoRGB(0, 0, 100);
     M5.dis.drawpix(0, led);
 
     //PID reset
@@ -107,7 +78,9 @@ void setup()
     pid_i_mem_pitch = 0;
     pid_last_pitch_d_error = 0;
     //pid_i_mem_yaw = 0;
-    //pid_last_yaw_d_error = 0;    
+    //pid_last_yaw_d_error = 0;
+
+    //fly.CalibrateGyro();
 }
 
 void calculate_pid()
@@ -171,161 +144,18 @@ void calculate_pid()
 //   pid_last_yaw_d_error = pid_error_temp;
 
   pid_output_yaw = 0;
-
-  on_time = millis();
-
-  fly.getAccelData(&last_accX, &last_accY, &last_accZ);
-}
-
-//kalman filter test, tried to see if it reduces noise
-// problem is, it keeps values 10% around the initial value
-//  check KALMAN_INIT comment below
-//  to revisit in future
-void loop2()
-{
-  //initial values for the kalman filter
-  float x_est_last = 0;
-  float P_last = 0;
-  //the noise in the system
-  float Q = 0.022;
-  float R = 0.617;
-  
-  float K;
-  float P;
-  float P_temp;
-  float x_temp_est;
-  float x_est;
-  float z_measured; //the 'noisy' value we measured
-  float z_real = 0.5; //the ideal value we wish to measure
-  
-  float accX, accY, accZ;
-
-  //initialize with a measurement
-  fly.getAccelData(&accX, &accY, &accZ);
-  x_est_last = z_real + accX * 0.09;      //KALMAN_INIT
-  
-  float sum_error_kalman = 0;
-  float sum_error_measure = 0;
-  
-  for (int i=0;i<30;i++) {
-      //do a prediction
-      x_temp_est = x_est_last;
-      P_temp = P_last + Q;
-
-      //calculate the Kalman gain
-      K = P_temp * (1.0/(P_temp + R));
-
-      //measure
-      fly.getAccelData(&accX, &accY, &accZ);
-
-      z_measured = z_real + accX * 0.09; //the real measurement plus noise
-      
-      //correct
-      x_est = x_temp_est + K * (z_measured - x_temp_est); 
-      P = (1- K) * P_temp;
-      
-      //we have our new system
-      
-      printf("Ideal    position: %6.3f \n",z_real);
-      printf("Mesaured position: %6.3f [diff:%.3f]\n",z_measured,fabs(z_real-z_measured));
-      printf("Kalman   position: %6.3f [diff:%.3f]\n",x_est,fabs(z_real - x_est));
-      
-      sum_error_kalman += fabs(z_real - x_est);
-      sum_error_measure += fabs(z_real-z_measured);
-      
-      //update our last's
-      P_last = P;
-      x_est_last = x_est;
-  }
-  
-  printf("Total error if using raw measured:  %f\n",sum_error_measure);
-  printf("Total error if using kalman filter: %f\n",sum_error_kalman);
-  printf("Reduction in error: %d%% \n",100-(int)((sum_error_kalman/sum_error_measure)*100));
-
 }
 
 void loop()
 {
-
-#if 1 //average reads from accel
-    #define ACC_AVG (20)
-
-    double avgX = 0, avgY = 0, avgZ = 0;
-    float accX, accY, accZ;
-
-    for (int ix = 0; ix < ACC_AVG; ix++)
-    {
-      fly.getAccelData(&accX, &accY, &accZ);
-
-      //SERIAL_PRINTF("ax %.2f  ay %.2f  az %.2f\n", accX, accY, accZ);
-
-#if 0
-      float alpha = 0.02f;
-
-      if (abs(last_accX - accX) > 0.1f)
-          last_accX = accX = (alpha * accX ) + (1 - alpha) * last_accX;
-      else
-          last_accX = accX = (alpha * last_accX ) + (1 - alpha) * accX;
-      
-      if (abs(last_accY - accY) > 0.1f)
-          last_accY = accY = (alpha * accY ) + (1 - alpha) * last_accY;
-      else
-          last_accY = accY = (alpha * last_accY ) + (1 - alpha) * accY;
-
-      if (abs(last_accZ - accZ) > 0.1f)
-          last_accZ = accZ = (alpha * accZ ) + (1 - alpha) * last_accZ;
-      else
-          last_accZ = accZ = (alpha * last_accZ ) + (1 - alpha) * accZ;
-#endif
-
-      avgX += accX;
-      avgY += accY;
-      avgZ += accZ;
-      // delayMicroseconds(10);
-    }
-
-    accX = avgX / ACC_AVG;
-    accY = avgY / ACC_AVG;
-    accZ = avgZ / ACC_AVG;
-#endif
-
-    // float accX, accY, accZ;
-    // fly.getGyroData(&accX, &accY, &accZ);
-
-    // SERIAL_PRINTF("t %d  gx %.2f  gy %.2f  gz %.2f  ", millis(), accX, accY, accZ);
-
-    // float accX, accY, accZ;
-    // fly.getAccelData(&accX, &accY, &accZ);
-
-    //SERIAL_PRINTF("ax %.2f  ay %.2f  az %.2f\n", accX, accY, accZ);
-
-    if ((accX < 1) && (accX > -1))
-    {
-        pitch = asin(-accX) * 57.295;
-    }
-    if (accZ != 0)
-    {
-        roll = atan(accY / accZ) * 57.295;
-    }
-
-#if 1  // a simple filter
-    float alpha = 0.25f;
-
-    if (abs(last_pitch - pitch) > 1.0f)
-        last_pitch = pitch = (alpha * pitch ) + (1 - alpha) * last_pitch;
-    else
-        last_pitch = pitch = (alpha * last_pitch ) + (1 - alpha) * pitch;
-
-    if (abs(last_roll - roll) > 1.0f)
-        last_roll = roll = (alpha * roll ) + (1 - alpha) * last_roll;
-    else
-        last_roll = roll = (alpha * last_roll ) + (1 - alpha) * roll;
-#endif
-
+    fly.getAttitude(&pitch, &roll, &yaw);
 
     calculate_pid();
 
-    int throttle = 600;
+    //TODO throttle needs to come from remote control
+    //  also update pwm values based on direction headed
+    int throttle = 950;
+
     int esc_A = throttle - pid_output_pitch - pid_output_roll + pid_output_yaw; //Calculate the pulse for esc 4 (front-left - CW) //A
     int esc_B = throttle + pid_output_pitch - pid_output_roll - pid_output_yaw; //Calculate the pulse for esc 1 (front-right - CCW) //B
     int esc_C = throttle - pid_output_pitch + pid_output_roll - pid_output_yaw; //Calculate the pulse for esc 3 (rear-left - CCW) //C
@@ -337,47 +167,54 @@ void loop()
     esc_C /= 10;
     esc_D /= 10;
 
-    // //SERIAL_PRINTF("p %.2f\t r %.2f\t a %.2f\t d %.2f\t", pitch, roll, arc, dist);
-    // //SERIAL_PRINTF("A %d  B %d  C %d  D %d", esc_A, esc_B, esc_C, esc_D);
-
-    SERIAL_PRINTF("%.2f  r %.2f  ", pitch, roll);
+    SERIAL_PRINTF("p %.2f  r %.2f  y %.2f ", pitch, roll, yaw);
     SERIAL_PRINTF("A %d  B %d  C %d  D %d\n", esc_A, esc_B, esc_C, esc_D);
-
-    // if (mode == 1)
-    //   SERIAL_PRINTF("\t on\n");
-    // else
-    //   SERIAL_PRINTF("\n");
-
-    if (mode == 1 && millis() > off_time)
-    {
-        fly.WritePWM(AtomFly::kMotor_A, 0);
-        fly.WritePWM(AtomFly::kMotor_B, 0);
-        fly.WritePWM(AtomFly::kMotor_C, 0);
-        fly.WritePWM(AtomFly::kMotor_D, 0);
-        mode = 0;
-
-        SERIAL_PRINTF("turn off\n");
-    }
 
     if (mode == 1)
     {
-        // fly.WritePWM(AtomFly::kMotor_A, esc_A);
-        // fly.WritePWM(AtomFly::kMotor_B, esc_B);
-        // fly.WritePWM(AtomFly::kMotor_C, esc_C);
-        // fly.WritePWM(AtomFly::kMotor_D, esc_D);
+        if (millis() - on_time > FLY_DURATION)
+        {
+            fly.WritePWM(AtomFly::kMotor_A, 0);
+            fly.WritePWM(AtomFly::kMotor_B, 0);
+            fly.WritePWM(AtomFly::kMotor_C, 0);
+            fly.WritePWM(AtomFly::kMotor_D, 0);
+            mode = 0;
 
-        fly.WritePWM(AtomFly::kMotor_A, 50);
-        fly.WritePWM(AtomFly::kMotor_B, 50);
-        fly.WritePWM(AtomFly::kMotor_C, 50);
-        fly.WritePWM(AtomFly::kMotor_D, 50);
+            led = CRGB(0,255,0);
+            M5.dis.drawpix(0, led);
+
+            SERIAL_PRINTF("turn off\n");
+        }
+        else if (millis() - on_time < 2000 )
+        {
+          //wait 2 sec before turn on
+        }
+        else if (millis() - on_time < 4000 )
+        {
+          //next 2 sec, warm up
+
+          fly.WritePWM(AtomFly::kMotor_A, 40);
+          fly.WritePWM(AtomFly::kMotor_B, 40);
+          fly.WritePWM(AtomFly::kMotor_C, 40);
+          fly.WritePWM(AtomFly::kMotor_D, 40);
+        }
+        else
+        {
+            fly.WritePWM(AtomFly::kMotor_A, esc_A);
+            fly.WritePWM(AtomFly::kMotor_B, esc_B);
+            fly.WritePWM(AtomFly::kMotor_C, esc_C);
+            fly.WritePWM(AtomFly::kMotor_D, esc_D);
+        }
     }
     else if (M5.Btn.wasPressed())
     {
         SERIAL_PRINTF("turn on\n");
 
+        led = CRGB(255,0,0);
+        M5.dis.drawpix(0, led);
+
         mode = 1;
         on_time = millis();
-		    off_time = millis() + FLY_DURATION;
     }
 
 #if 0 //update LED based on TOF
@@ -398,58 +235,6 @@ void loop()
     M5.update();
 
 #if SERIAL_DEBUG
-    delay(10);
+    //delay(10);
 #endif
-}
-
-// R,G,B from 0-255, H from 0-360, S,V from 0-100
-
-CRGB HSVtoRGB(uint16_t h, uint16_t s, uint16_t v)
-{
-    CRGB ReRGB(0, 0, 0);
-    int i;
-    float RGB_min, RGB_max;
-    RGB_max = v * 2.55f;
-    RGB_min = RGB_max * (100 - s) / 100.0f;
-
-    i = h / 60;
-    int difs = h % 60;
-    float RGB_Adj = (RGB_max - RGB_min) * difs / 60.0f;
-
-    switch (i)
-    {
-    case 0:
-
-        ReRGB.r = RGB_max;
-        ReRGB.g = RGB_min + RGB_Adj;
-        ReRGB.b = RGB_min;
-        break;
-    case 1:
-        ReRGB.r = RGB_max - RGB_Adj;
-        ReRGB.g = RGB_max;
-        ReRGB.b = RGB_min;
-        break;
-    case 2:
-        ReRGB.r = RGB_min;
-        ReRGB.g = RGB_max;
-        ReRGB.b = RGB_min + RGB_Adj;
-        break;
-    case 3:
-        ReRGB.r = RGB_min;
-        ReRGB.g = RGB_max - RGB_Adj;
-        ReRGB.b = RGB_max;
-        break;
-    case 4:
-        ReRGB.r = RGB_min + RGB_Adj;
-        ReRGB.g = RGB_min;
-        ReRGB.b = RGB_max;
-        break;
-    default: // case 5:
-        ReRGB.r = RGB_max;
-        ReRGB.g = RGB_min;
-        ReRGB.b = RGB_max - RGB_Adj;
-        break;
-    }
-
-    return ReRGB;
 }

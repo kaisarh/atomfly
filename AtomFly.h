@@ -95,7 +95,9 @@ public:
     void SetGyroFsr(Gscale scale);
     void SetAccelFsr(Ascale scale);
     void getAhrsData(float *pitch, float *roll, float *yaw);
-    void getAttitude(double *pitch, double *roll);
+
+    void CalibrateGyro();
+    void getAttitude(float *pitch, float *roll, float *yaw);
 
     void WritePWM(uint8_t,uint8_t);
     void WriteAllPWM(uint8_t);
@@ -110,6 +112,12 @@ private:
     float _last_theta = 0;
     float _last_phi = 0;
     float _alpha = 0.5;
+
+    float gyroXoffset = -0.02, gyroYoffset = -0.12, gyroZoffset = -0.31;
+    float angleGyroZ = 0;
+    float angleX = 0, angleY = 0, angleZ = 0;    
+    uint32_t preInterval;
+
     void I2C_Read_NBytes(uint8_t driver_Addr, uint8_t start_Addr, uint8_t number_Bytes, uint8_t *read_Buffer);
     void I2C_Write_NBytes(uint8_t driver_Addr, uint8_t start_Addr, uint8_t number_Bytes, uint8_t *write_Buffer);
     void getGres();
