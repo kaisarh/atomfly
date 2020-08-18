@@ -5,8 +5,6 @@
 #include <M5Atom.h>
 #include "AtomFly.h"
 
-CRGB led(0, 0, 0);
-
 double r_rand = 180 / PI;
 
 float pitch, roll, yaw;
@@ -57,8 +55,7 @@ void setup()
     if ( fly.initFly() != 0)
     {
         Serial.println("initFly() failed");
-        led = CRGB(0,255,0);
-        M5.dis.drawpix(0, led);
+        M5.dis.drawpix(0, CRGB(0,255,0));
         while(1)
         {
             delay(100);
@@ -66,8 +63,7 @@ void setup()
     }
 
     Serial.println("initFly() ok");
-    led = CRGB(255,0,0);
-    M5.dis.drawpix(0, led);
+    M5.dis.drawpix(0, CRGB(255,0,0));
 
     //PID reset
     pid_roll_setpoint = 0;
@@ -152,25 +148,27 @@ void loop()
 
     calculate_pid();
 
+    int esc_A = - pid_output_pitch - pid_output_roll + pid_output_yaw; // (front-left - CW)
+    int esc_B = pid_output_pitch - pid_output_roll - pid_output_yaw; // (front-right - CCW)
+    int esc_C = - pid_output_pitch + pid_output_roll - pid_output_yaw; // (rear-left - CCW)
+    int esc_D = pid_output_pitch + pid_output_roll + pid_output_yaw; //(rear-right - CW)
+
     //TODO throttle needs to come from remote control
     //  also update pwm values based on direction headed
-    int throttle = 950;
-
-    int esc_A = throttle - pid_output_pitch - pid_output_roll + pid_output_yaw; //Calculate the pulse for esc 4 (front-left - CW) //A
-    int esc_B = throttle + pid_output_pitch - pid_output_roll - pid_output_yaw; //Calculate the pulse for esc 1 (front-right - CCW) //B
-    int esc_C = throttle - pid_output_pitch + pid_output_roll - pid_output_yaw; //Calculate the pulse for esc 3 (rear-left - CCW) //C
-    int esc_D = throttle + pid_output_pitch + pid_output_roll + pid_output_yaw; //Calculate the pulse for esc 2 (rear-right - CW) //D
+    int throttle = 90;
 
     //scale down pwm values
-    esc_A /= 10;
-    esc_B /= 10;
-    esc_C /= 10;
-    esc_D /= 10;
+    esc_A = throttle + (esc_A / 10);
+    esc_B = throttle + (esc_B / 10);
+
+    //do C & D motors have more power? temporary hack to reduce pwm by 20%
+    esc_C = throttle + (esc_C/ 10) * 0.8f;
+    esc_D = throttle + (esc_D/ 10) * 0.8f;
 
     SERIAL_PRINTF("p %.2f  r %.2f  y %.2f ", pitch, roll, yaw);
     SERIAL_PRINTF("A %d  B %d  C %d  D %d\n", esc_A, esc_B, esc_C, esc_D);
 
-    if (mode == 1)
+    if (mode)
     {
         if (millis() - on_time > FLY_DURATION)
         {
@@ -180,25 +178,45 @@ void loop()
             fly.WritePWM(AtomFly::kMotor_D, 0);
             mode = 0;
 
-            led = CRGB(0,255,0);
-            M5.dis.drawpix(0, led);
+            //green LED
+            M5.dis.drawpix(0, CRGB(255,0,0));
 
             SERIAL_PRINTF("turn off\n");
         }
-        else if (millis() - on_time < 2000 )
+        else if (mode == 1)
         {
-          //wait 2 sec before turn on
-        }
-        else if (millis() - on_time < 4000 )
-        {
-          //next 2 sec, warm up
+          //blink 1 sec
+          for (int ix = 0; ix < 10; ix++)
+          {
+            delay(50);
+            M5.dis.drawpix(0, CRGB(0,0,0));
+            delay(50);
+            M5.dis.drawpix(0, CRGB(0,255,0));
+          }
 
+          //warm up
           fly.WritePWM(AtomFly::kMotor_A, 40);
           fly.WritePWM(AtomFly::kMotor_B, 40);
           fly.WritePWM(AtomFly::kMotor_C, 40);
           fly.WritePWM(AtomFly::kMotor_D, 40);
+
+          //fly.CalibrateGyro();
+
+          //blink 2 sec
+          for (int ix = 0; ix < 20; ix++)
+          {
+            delay(50);
+            M5.dis.drawpix(0, CRGB(0,0,0));
+            delay(50);
+            M5.dis.drawpix(0, CRGB(0,255,0));
+          }
+
+          //blue LED
+          M5.dis.drawpix(0, CRGB(0,0,255));
+
+          mode = 2;
         }
-        else
+        else  //mode == 2
         {
             fly.WritePWM(AtomFly::kMotor_A, esc_A);
             fly.WritePWM(AtomFly::kMotor_B, esc_B);
@@ -210,8 +228,8 @@ void loop()
     {
         SERIAL_PRINTF("turn on\n");
 
-        led = CRGB(255,0,0);
-        M5.dis.drawpix(0, led);
+        //red LED
+        M5.dis.drawpix(0, CRGB(0,255,0));
 
         mode = 1;
         on_time = millis();
