@@ -4,6 +4,12 @@
 #include <M5Atom.h>
 #include <Adafruit_BMP280.h>
 
+//#define EXTERNAL_MPU6050 (1)
+
+#ifdef EXTERNAL_MPU6050
+#include <MPU6050_tockn.h>
+#endif  
+  
 #define VL53L0X_REG_IDENTIFICATION_MODEL_ID 0xc0
 #define VL53L0X_REG_IDENTIFICATION_REVISION_ID 0xc2
 #define VL53L0X_REG_PRE_RANGE_CONFIG_VCSEL_PERIOD 0x50

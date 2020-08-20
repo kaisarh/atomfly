@@ -36,8 +36,14 @@ int AtomFly::initFly(void)
             addrsub += i;
         }
     }
+
+#ifdef EXTERNAL_MPU6050
+    if( addrsub != (0x29+0x68+0x69+0x76))
+#else
     if( addrsub != (0x29+0x69+0x76))
+#endif
     {
+        Serial.printf("addrsub error\n");
         return -1;
     }
 
@@ -52,7 +58,10 @@ int AtomFly::initFly(void)
     I2C_Read_NBytes(MPU6886_ADDRESS, MPU6886_WHOAMI, 1, tempdata);
     Serial.printf("%02X\r\n", tempdata[0]);
     if (tempdata[0] != 0x19)
+    {
+        Serial.printf("tempdata[0] != 0x19 error\n");
         return -1;
+    }
     delay(1);
 
     regdata = 0x00;
@@ -298,8 +307,8 @@ void AtomFly::getAttitude(float *pitch, float *roll, float *yaw)
 
     preInterval = millis();
 
-    *pitch = angleY;
-    *roll = angleX;
+    *roll = angleY;
+    *pitch = angleX;
     *yaw = angleZ;
 
 

@@ -5,8 +5,6 @@
 #include <M5Atom.h>
 #include "AtomFly.h"
 
-double r_rand = 180 / PI;
-
 float pitch, roll, yaw;
 double last_pitch = 0, last_roll = 0;
 
@@ -36,6 +34,9 @@ float pid_i_gain_yaw = 0.02;               //Gain setting for the pitch I-contro
 float pid_d_gain_yaw = 0.0;                //Gain setting for the pitch D-controller.
 int pid_max_yaw = 400;                     //Maximum output of the PID-controller (+/-)
 
+#ifdef EXTERNAL_MPU6050
+MPU6050 mpu6050(Wire1);
+#endif
 
 #define SERIAL_DEBUG 0
 
@@ -77,19 +78,14 @@ void setup()
     //pid_last_yaw_d_error = 0;
 
     //fly.CalibrateGyro();
+
+  #ifdef EXTERNAL_MPU6050
+    mpu6050.begin();
+  #endif
 }
 
 void calculate_pid()
 {
-  //PID reset, temporary
-  pid_roll_setpoint = 0;
-  pid_pitch_setpoint = 0;
-
-  pid_i_mem_roll = 0;
-  pid_last_roll_d_error = 0;
-  pid_i_mem_pitch = 0;
-  pid_last_pitch_d_error = 0;
-
   //Roll calculations
   pid_error_temp = roll - pid_roll_setpoint;
   pid_i_mem_roll += pid_i_gain_roll * pid_error_temp;
@@ -144,6 +140,12 @@ void calculate_pid()
 
 void loop()
 {
+  #ifdef EXTERNAL_MPU6050
+    mpu6050.update();
+    Serial.print("r1 ");Serial.print(mpu6050.getAngleX());
+    Serial.print("  p1 ");Serial.print(mpu6050.getAngleY());
+  #endif
+
     fly.getAttitude(&pitch, &roll, &yaw);
 
     calculate_pid();
@@ -160,10 +162,8 @@ void loop()
     //scale down pwm values
     esc_A = throttle + (esc_A / 10);
     esc_B = throttle + (esc_B / 10);
-
-    //do C & D motors have more power? temporary hack to reduce pwm by 20%
-    esc_C = throttle + (esc_C/ 10) * 0.8f;
-    esc_D = throttle + (esc_D/ 10) * 0.8f;
+    esc_C = throttle + (esc_C/ 10);
+    esc_D = throttle + (esc_D/ 10);
 
     SERIAL_PRINTF("p %.2f  r %.2f  y %.2f ", pitch, roll, yaw);
     SERIAL_PRINTF("A %d  B %d  C %d  D %d\n", esc_A, esc_B, esc_C, esc_D);
@@ -194,21 +194,15 @@ void loop()
             M5.dis.drawpix(0, CRGB(0,255,0));
           }
 
-          //warm up
-          fly.WritePWM(AtomFly::kMotor_A, 40);
-          fly.WritePWM(AtomFly::kMotor_B, 40);
-          fly.WritePWM(AtomFly::kMotor_C, 40);
-          fly.WritePWM(AtomFly::kMotor_D, 40);
-
-          //fly.CalibrateGyro();
-
-          //blink 2 sec
-          for (int ix = 0; ix < 20; ix++)
+          //warm up in 3 sec
+          for (int ix = 60; ix > 0; ix--)
           {
+            //warm up
+            fly.WritePWM(AtomFly::kMotor_A, esc_A - ix);
+            fly.WritePWM(AtomFly::kMotor_B, esc_B - ix);
+            fly.WritePWM(AtomFly::kMotor_C, esc_C - ix);
+            fly.WritePWM(AtomFly::kMotor_D, esc_D - ix);
             delay(50);
-            M5.dis.drawpix(0, CRGB(0,0,0));
-            delay(50);
-            M5.dis.drawpix(0, CRGB(0,255,0));
           }
 
           //blue LED
